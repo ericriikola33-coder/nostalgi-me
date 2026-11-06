@@ -15,6 +15,9 @@ Namn du skriver in för poster eller födelsedagsquiz används bara för att vis
 ## Webbhotell och tekniska loggar
 Sajten levereras via Cloudflare. När du besöker en webbsida behandlar Cloudflare tekniska uppgifter som IP-adress, webbläsare och tidpunkt för att kunna visa sidan och skydda den mot attacker. Läs mer i [Cloudflares integritetspolicy](https://www.cloudflare.com/privacypolicy/).
 
+## Besöksstatistik
+Vi använder GoatCounter för att räkna besök och se vilka sidor som är populära. GoatCounter använder inga cookies och samlar inte in personuppgifter som namn eller e-post. Statistiken är anonym och används bara för att förbättra sajten.
+
 ## Annonser och cookies
 Sajten kan visa annonser från Google AdSense. Tredjepartsleverantörer, inklusive Google, använder cookies för att visa annonser baserat på dina tidigare besök på den här och andra webbplatser. Googles användning av annonscookies gör det möjligt för Google och dess partner att visa annonser baserat på dina besök här och på andra webbplatser på internet.
 
