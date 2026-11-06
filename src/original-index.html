@@ -1,0 +1,657 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Året du föddes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shrikhand&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--page:#fbf4e6;--band:#2e7d7a;--cream:#f6e8cf;--card:#fffaf0;--ink:#3a2a20;--muted:#7a6553;--orange:#dc6230;--gold:#eba43d;--on-ink:#f3e4c9;--soft:#f3e4c9;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--page:#fbf4e6;--band:#2e7d7a;--cream:#f6e8cf;--card:#fffaf0;--ink:#3a2a20;--muted:#7a6553;--orange:#dc6230;--gold:#eba43d;--on-ink:#f3e4c9;--soft:#f3e4c9;color-scheme:light}}
+:root[data-theme="dark"]{--page:#fbf4e6;--band:#2e7d7a;--cream:#f6e8cf;--card:#fffaf0;--ink:#3a2a20;--muted:#7a6553;--orange:#dc6230;--gold:#eba43d;--on-ink:#f3e4c9;--soft:#f3e4c9;color-scheme:light}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px);scroll-behavior:smooth}
+body{margin:0;background:var(--page);color:var(--ink);font-family:"Space Mono",ui-monospace,monospace;line-height:1.6;font-size:15px}
+.band{background:var(--band);padding:28px 16px 40px}
+.win{max-width:760px;margin:0 auto;background:var(--cream);border:3px solid #3a2a20;box-shadow:12px 12px 0 #3a2a20}
+.bar{background:var(--gold);border-bottom:3px solid #3a2a20;padding:12px 14px;display:flex;align-items:center;gap:8px}
+.dot{width:16px;height:16px;border-radius:50%;border:2px solid #3a2a20;flex:none}
+.url{flex:1;min-width:0;margin-left:8px;background:#f3e4c9;color:#3a2a20;border:2px solid #3a2a20;padding:6px 10px;font-size:.9rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hero{padding:40px 24px 36px}
+.brand{display:flex;flex-direction:column;align-items:flex-start;margin:0 0 26px}
+.brand svg{width:120px;height:auto;display:block}
+.brand .name{font-family:"Shrikhand",Georgia,serif;color:var(--orange);font-size:2rem;line-height:1;margin-top:8px;letter-spacing:.02em}
+.kicker{letter-spacing:.3em;font-size:.78rem;margin:0 0 10px}
+.big-title{font-family:"Shrikhand",Georgia,serif;color:var(--orange);font-size:clamp(2.5rem,11vw,4.6rem);line-height:1.05;margin:0 0 24px;font-weight:400}
+.btns{display:flex;flex-wrap:wrap;gap:12px}
+.btn{display:inline-block;padding:12px 20px;font-family:"Space Mono",monospace;font-weight:700;font-size:1rem;border:2px solid var(--ink);text-decoration:none;cursor:pointer;border-radius:0}
+.btn.solid{background:var(--ink);color:var(--on-ink)}
+.btn.line{background:transparent;color:var(--ink)}
+main{max-width:620px;margin:0 auto;padding:36px 16px 56px}
+h1{font-family:"Shrikhand",Georgia,serif;font-weight:400;color:var(--orange);font-size:2rem;margin:0 0 4px;line-height:1.15}
+.sub{margin:0 0 20px;color:var(--muted);font-size:.9rem}
+.row{display:flex;gap:10px}
+input{flex:1;min-width:0;padding:12px;border:2px solid var(--ink);border-radius:0;background:var(--card);color:var(--ink);font:inherit;font-size:1.1rem}
+button{padding:12px 18px;border:2px solid var(--ink);border-radius:0;background:var(--ink);color:var(--on-ink);font:inherit;font-weight:700;cursor:pointer}
+button:disabled{opacity:.6}
+button.ghost{background:transparent;color:var(--ink)}
+#status{margin-top:14px;color:var(--muted)}
+.card{background:var(--card);border:2px solid var(--ink);box-shadow:6px 6px 0 var(--ink);padding:14px 16px;margin-top:18px}
+.card h2{margin:0;font-size:1rem;color:var(--orange);font-weight:700}
+.head{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.head button{padding:6px 14px;font-size:.85rem}
+.card ul{margin:10px 0 0;padding-left:20px}
+.card li{margin-bottom:4px}
+.hidden{display:none}
+.all{margin-top:18px;width:100%}
+.answer{margin-top:12px;padding:12px;background:var(--soft);border:2px dashed var(--ink)}
+.year{font-family:"Shrikhand",Georgia,serif;font-size:2.2rem;color:var(--orange);line-height:1.1}
+.qtitle{font-family:"Shrikhand",Georgia,serif;font-weight:400;color:var(--orange);font-size:1.5rem;margin:0}
+.prow{display:flex;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid var(--soft)}
+.prow .pn{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:700}
+.prow .ps{font-family:"Shrikhand",Georgia,serif;color:var(--orange);font-size:1.3rem;min-width:2.2ch;text-align:right}
+.prow button{padding:6px 10px;font-size:.85rem}
+.lead .pn::after{content:" 👑"}
+select{padding:10px;border:2px solid var(--ink);border-radius:0;background:var(--card);color:var(--ink);font:inherit;font-size:1rem}
+.mrow{display:flex;gap:8px;margin-bottom:8px}
+.mrow .ml{flex:1;min-width:0;font-size:.95rem;padding:10px}
+.mrow .my{width:5.2em;flex:none;font-size:.95rem;padding:10px}
+.mrow button{padding:6px 10px}
+.banner{margin:14px 0 0;padding:10px 12px;background:var(--soft);border:2px solid var(--ink);display:flex;align-items:center;gap:10px}
+.banner span{flex:1}
+.banner button{padding:6px 10px;font-size:.8rem}
+.note{margin-top:24px;font-size:.8rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="band">
+<div class="win">
+<div class="bar">
+<span class="dot" style="background:#dc6230"></span>
+<span class="dot" style="background:#f3e4c9"></span>
+<span class="dot" style="background:#2e7d7a"></span>
+<span class="url">https://nostalgi.me</span>
+</div>
+<div class="hero">
+<div class="brand" role="img" aria-label="Nostalgi logga">
+<svg viewBox="0 0 200 106" aria-hidden="true"><path d="M10 100 A90 90 0 0 1 190 100 Z" fill="#c8563f"/><path d="M30 100 A70 70 0 0 1 170 100 Z" fill="#e7a46d"/><path d="M50 100 A50 50 0 0 1 150 100 Z" fill="#f2c66e"/><path d="M70 100 A30 30 0 0 1 130 100 Z" fill="#829d7b"/><rect x="10" y="99" width="180" height="5" fill="#6b3d2a"/></svg>
+<span class="name">nostalgi</span>
+</div>
+<p class="kicker">DITT RETROHÖRN PÅ NÄTET</p>
+<p class="big-title">Där minnen lever.</p>
+<div class="btns">
+<a class="btn solid" href="#search">Börja här</a>
+<a class="btn line" href="#quiz">Till quizet</a>
+</div>
+</div>
+</div>
+</div>
+
+<main>
+<section id="search">
+<h1>Året du föddes</h1>
+<p class="sub">Skriv ett årtal och öppna en ruta i taget: pengarnas värde, villapriser, musik, idrottare, händelser och lite konstigheter.</p>
+<div class="row">
+<input id="yr" type="number" inputmode="numeric" min="1900" max="2025" placeholder="t.ex. 1987">
+<button id="go">Sök</button>
+</div>
+<div id="status" aria-live="polite"></div>
+<div id="out"></div>
+</section>
+
+<div class="card" id="bday" style="margin-top:32px">
+<p class="qtitle">Födelsedagsquiz</p>
+<p class="sub" style="margin:6px 0 12px">Ett quiz där födelsedagsbarnet står i fokus. De flesta frågorna handlar om hennes eller hans födelseår och viktiga händelser i livet, med några knepiga frågor från året innan och året efter. Händelserna blir bonusfrågor värda dubbla poäng. Perfekt till ett 50-årskalas.</p>
+<input id="bname" placeholder="Födelsedagsbarnets namn" maxlength="20" style="width:100%;font-size:1rem;margin-bottom:10px">
+<div class="mrow"><input class="ml" value="föddes" readonly aria-readonly="true" tabindex="-1" style="background:var(--soft)"><input id="bborn" class="my" type="number" inputmode="numeric" placeholder="År"></div>
+<p class="sub" style="margin:4px 0 6px">Andra händelser i livet, blir bonusfrågor (valfritt):</p>
+<div id="bmiles"></div>
+<button id="baddm" class="ghost" type="button" style="width:100%;margin-top:6px">+ Lägg till händelse, t.ex. tog studenten</button>
+<div class="row" style="margin-top:12px;align-items:center"><span class="sub" style="flex:1;margin:0">Antal frågor</span><select id="bcount"><option>5</option><option selected>10</option><option>15</option></select></div>
+<button id="bstart" type="button" style="width:100%;margin-top:12px">Starta födelsedagsquiz</button>
+<div id="bmsg" class="sub" style="margin:8px 0 0"></div>
+</div>
+
+<div class="card" id="quiz" style="margin-top:32px">
+<p class="qtitle">Quiz: gissa året</p>
+<div id="grpwrap"><p class="sub" style="margin:6px 0 10px">Skriv minst två årtal, till exempel sällskapets födelseår (de läggs till automatiskt när ni söker ovan). Tomt = slumpade år.</p>
+<div class="row" style="margin-bottom:10px"><input id="grp" placeholder="t.ex. 1987, 1992, 2001" style="font-size:1rem"><button id="grpclear" class="ghost" type="button" aria-label="Töm raden med årtal">Töm</button></div></div>
+<div id="secretnote" class="answer hidden" style="margin:10px 0 12px"></div>
+<button id="qgo" style="width:100%">Ny fråga</button>
+<div id="bbanner"></div>
+<div id="qbox"></div>
+<div id="board" style="margin-top:22px;padding-top:16px;border-top:2px dashed var(--ink)">
+<p class="qtitle" style="font-size:1.25rem">Poängtavla</p>
+<p class="sub" style="margin:4px 0 10px">Spelledaren lägger till spelarna och delar ut poäng. Förslag: 3 poäng för exakt rätt år, 1 poäng till den som var närmast. Max 10 spelare eller lag.</p>
+<div class="row" style="margin-bottom:10px"><input id="pname" placeholder="Namn, alias eller lagnamn" maxlength="16" style="font-size:1rem"><button id="padd" type="button">Lägg till</button></div>
+<div id="pmsg" class="sub" style="margin:0 0 8px"></div>
+<div id="plist"></div>
+<div class="row" style="margin-top:12px"><button id="preset" class="ghost" type="button" style="flex:1">Nollställ poäng</button><button id="pclear" class="ghost" type="button" style="flex:1">Ta bort alla</button></div>
+</div>
+</div>
+
+<div id="etsyfoot"></div>
+<p class="note">Bara för skojs skull: jag gör mitt bästa för att allt ska stämma, men fel kan förekomma. Kolla gärna själv om något låter konstigt.</p>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const sections = [
+  ["musik","Musik och låtar","6 låtar med artist ur olika genrer (pop, rock, dans, hiphop, svenskt), minst två mindre kända hits, inte bara de största namnen"],
+  ["priser","Vad saker kostade (ungefärligt)","ungefärliga priser i Sverige på t.ex. mjölk, bensin, biobiljett, kaffe och en vanlig lön"],
+  ["idrottare","Stora idrottare","stora idrottare och idrottsögonblick, svenska och internationella"],
+  ["handelser","Historiska händelser","viktiga historiska händelser i Sverige och världen"],
+  ["fodda","Hur många föddes (ungefärligt)","ungefär hur många barn som föddes i Sverige och i världen, säg om du är osäker, plus ett populärt barnnamn i Sverige"],
+  ["konstigt","Konstiga och roliga nyheter","roliga, udda eller märkliga nyheter, trender och kuriosa"]
+];
+
+const IDX_FROM=1975;
+const IDX_STHLM=[53,62,71,83,94,100,100,101,103,105,111,121,148,189,224,247,254,217,184,202,206,207,233,269,308,374,411,434,443,475,509,574,657,672,676,741,752,747,778,860,979,1066,1125,1067,1072,1139,1351,1399,1245,1245,1272];
+const IDX_SMAL=[63,72,83,92,100,105,100,100,99,102,104,108,118,133,151,173,190,180,168,175,176,178,185,202,214,227,242,257,275,298,324,357,387,405,420,445,441,434,448,468,505,565,620,644,657,710,807,851,771,779,796];
+const IDX_NORR=[60,69,78,86,94,99,100,102,102,107,110,115,125,139,161,179,193,182,164,169,166,165,170,179,188,195,205,214,219,236,255,281,300,311,318,337,345,352,370,405,461,454,491,500,509,544,626,683,634,654,649];
+const KPI_FROM=1980, KPI_NOW_YEAR=2025;
+const KPI=[100,112.1,121.7,132.6,143.2,153.8,160.3,167,176.7,188.1,207.8,227.2,232.4,243.2,248.5,254.8,256,257.3,257,258.1,260.7,267.1,272.8,278.1,279.2,280.4,284.22,290.51,300.61,299.66,303.46,311.43,314.2,314.06,313.49,313.35,316.43,322.11,328.4,334.26,335.92,343.19,371.91,403.7,415.15,417.98];
+const VILLA = [
+  { name: "Stockholms stad", color: "#dc6230", idx: IDX_STHLM, anchor: 7549 },
+  { name: "Småland (snitt av Jönköpings, Kronobergs och Kalmar län)", short: "Småland", color: "#b07a1e", idx: IDX_SMAL, anchor: (2334 + 2101 + 1920) / 3 },
+  { name: "Norrbotten", color: "#2e7d7a", idx: IDX_NORR, anchor: 1708 }
+];
+const kr = n => Math.round(n).toLocaleString("sv-SE") + " kr";
+const kpi = y => (y >= KPI_FROM && y <= KPI_NOW_YEAR) ? KPI[y - KPI_FROM] : null;
+function villaPrice(v, y){ const i = y - IDX_FROM; if (i < 0 || i >= v.idx.length) return null; return v.anchor * 1000 * v.idx[i] / v.idx[2020 - IDX_FROM]; }
+const round10k = n => Math.round(n / 10000) * 10000;
+
+function villaChart(y){
+  const W = 320, H = 170, L = 34, R = 8, T = 10, B = 24, n = IDX_STHLM.length;
+  let max = 0; VILLA.forEach(v => { for (let yy = IDX_FROM; yy < IDX_FROM + n; yy++) max = Math.max(max, villaPrice(v, yy)); });
+  max = Math.ceil(max / 2e6) * 2e6;
+  const x = yy => L + (yy - IDX_FROM) * (W - L - R) / (n - 1), yv = val => T + (1 - val / max) * (H - T - B);
+  let g = "";
+  for (let m = 0; m <= max; m += 2e6) g += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + yv(m) + '" y2="' + yv(m) + '" stroke="#e6d8c0" stroke-width="1"/><text x="' + (L - 4) + '" y="' + (yv(m) + 4) + '" font-size="10" text-anchor="end" fill="#7a6553">' + (m / 1e6) + ' mn</text>';
+  [1975, 1990, 2005, 2025].forEach(t => g += '<text x="' + x(t) + '" y="' + (H - 6) + '" font-size="10" text-anchor="middle" fill="#7a6553">' + t + '</text>');
+  const lines = VILLA.map(v => { const pts = []; for (let yy = IDX_FROM; yy < IDX_FROM + n; yy++) pts.push(x(yy).toFixed(1) + "," + yv(villaPrice(v, yy)).toFixed(1)); return '<polyline fill="none" stroke="' + v.color + '" stroke-width="2.5" points="' + pts.join(" ") + '"/>'; }).join("");
+  let mark = "";
+  if (y >= IDX_FROM && y < IDX_FROM + n) mark = '<line x1="' + x(y) + '" x2="' + x(y) + '" y1="' + T + '" y2="' + (H - B) + '" stroke="#3a2a20" stroke-dasharray="3 3"/>' + VILLA.map(v => '<circle cx="' + x(y) + '" cy="' + yv(villaPrice(v, y)) + '" r="4" fill="' + v.color + '" stroke="#fffaf0" stroke-width="1.5"/>').join("");
+  const legend = VILLA.map(v => '<span style="display:inline-flex;align-items:center;gap:6px;margin-right:12px"><span style="width:12px;height:4px;background:' + v.color + ';display:inline-block"></span>' + esc(v.short || v.name) + '</span>').join("");
+  return '<svg viewBox="0 0 ' + W + ' ' + H + '" width="100%" role="img" aria-label="Villapriser 1975 till 2025" style="margin-top:12px;display:block">' + g + lines + mark + '</svg><div class="sub" style="margin:6px 0 0;font-size:.8rem">' + legend + '</div>';
+}
+
+function villaHtml(y){
+  if (y < IDX_FROM) return '<p class="sub" style="margin:10px 0 0">SCB:s prisstatistik för villor börjar 1975, så det finns inga siffror för ' + y + '.</p>' + villaChart(y);
+  const k = kpi(y), kNow = KPI[KPI.length - 1];
+  const items = VILLA.map(v => { const p = villaPrice(v, y); return '<li><strong>' + esc(v.name) + ':</strong> ca ' + kr(round10k(p)) + (k ? ' <span class="sub">(ca ' + kr(round10k(p * kNow / k)) + ' i dagens pengar)</span>' : '') + '</li>'; }).join("");
+  return '<ul>' + items + '</ul>' + villaChart(y) +
+    '<p class="sub" style="margin:8px 0 0;font-size:.78rem">Uppskattat snittpris för en villa, räknat fram från SCB:s medelpriser 2020 och fastighetsprisindex. Norrbotten följer indexet för Övre Norrland och Stockholms stad indexet för Storstockholm.' + (k ? ' Dagens pengar = 2025 års penningvärde enligt KPI.' : '') + '</p>';
+}
+
+function moneyHtml(y){
+  const k = kpi(y), kNow = KPI[KPI.length - 1];
+  if (!k) return '<p class="sub" style="margin:10px 0 0">SCB:s konsumentprisindex som används här finns för åren ' + KPI_FROM + '–' + KPI_NOW_YEAR + '.</p>';
+  if (y === KPI_NOW_YEAR) return '<p style="margin:10px 0 0">' + y + ' är jämförelseåret, så 100 kr då är 100 kr idag.</p>';
+  return '<ul><li>100 kr idag motsvarade ungefär <strong>' + kr(100 * k / kNow) + '</strong> år ' + y + '.</li>' +
+    '<li>100 kr år ' + y + ' räcker till ungefär lika mycket som <strong>' + kr(100 * kNow / k) + '</strong> idag.</li>' +
+    '<li>Priserna har stigit med ungefär ' + Math.round((kNow / k - 1) * 100) + ' % sedan dess.</li></ul>' +
+    '<p class="sub" style="margin:8px 0 0;font-size:.78rem">Enligt SCB:s konsumentprisindex (KPI), "idag" = 2025.</p>';
+}
+
+let sampleP = null;
+function getSample(){ if (!sampleP) sampleP = claude.use("sample"); return sampleP; }
+getSample();
+
+let permOK = null;
+async function ensureAI(){
+  if (permOK === true) return true;
+  try {
+    const perms = await claude.use("permissions");
+    if (!perms) return true;
+    let st = await perms.state("sample");
+    if (st === "prompt") {
+      $("status").textContent = "Tryck Tillåt i rutan som dyker upp, så att sidan får använda AI:n.";
+      st = (await perms.request(["sample"])).sample;
+    }
+    if (st === "granted") { permOK = true; $("status").textContent = ""; return true; }
+    if (st === "denied") {
+      $("status").innerHTML = 'AI:n är blockerad för sidan. <button class="ghost" id="mng" style="padding:4px 10px;font-size:.8rem">Öppna behörigheter</button>';
+      $("mng").addEventListener("click", async () => { try { await perms.manage(); permOK = null; $("status").textContent = "Tryck på Sök igen."; } catch(e) { $("status").textContent = "Öppna sidans meny och välj Behörigheter."; } });
+      return false;
+    }
+    return true;
+  } catch (e) { return true; }
+}
+
+function errMsg(e, again){
+  const c = e && e.code;
+  if (c === "rate_limited") return "Lite för snabbt! Vänta en stund och tryck på " + again + " igen.";
+  if (c === "not_granted") return "Sidan fick inte tillåtelse att använda AI:n. Ladda om och tryck Tillåt när frågan dyker upp.";
+  if (c === "timeout") return "Det tog för lång tid. Tryck på " + again + " igen.";
+  return "Något gick fel. Tryck på " + again + " igen.";
+}
+
+function toLines(text){
+  return String(text).split("\n").map(l => l.replace(/^\s*([-*•]|\d+[.)])\s*/, "").trim()).filter(Boolean);
+}
+
+let year = null, cache = {}, run = null;
+
+function renderSec(k){
+  const ent = cache[k], box = $("box-" + k);
+  if (!box) return;
+  if (run && run.err) { box.innerHTML = '<p class="sub" style="margin:10px 0 0">' + esc(run.err) + ' <button class="ghost retry" style="padding:4px 10px;font-size:.8rem">Försök igen</button></p>';
+    box.querySelector(".retry").addEventListener("click", () => { run = null; cache = {}; fetchYear(year); renderAll(); }); return; }
+  const lines = ent ? toLines(ent.text) : [];
+  box.innerHTML = lines.length
+    ? '<ul>' + lines.map(l => '<li>' + esc(l) + '</li>').join("") + '</ul>' + (ent.done ? '' : '<p class="sub" style="margin:6px 0 0">…</p>')
+    : '<p class="sub" style="margin:10px 0 0">' + (run && run.done ? "Inget svar för den här rutan. Tryck på Sök igen." : "Laddar …") + '</p>';
+}
+function renderAll(){ sections.forEach(([k]) => renderSec(k)); }
+
+function parseInto(text, final){
+  const parts = String(text).split(/^\s*#{2,3}\s*/m).slice(1);
+  const found = [];
+  parts.forEach(part => {
+    const nl = part.indexOf("\n");
+    const key = (nl < 0 ? part : part.slice(0, nl)).trim().toLowerCase();
+    const sec = sections.find(s => key.startsWith(s[0]));
+    if (!sec) return;
+    found.push(sec[0]);
+    cache[sec[0]] = { text: nl < 0 ? "" : part.slice(nl + 1), done: false };
+  });
+  found.forEach((k, i) => { if (final || i < found.length - 1) cache[k].done = true; });
+}
+
+function fetchYear(y){
+  if (run && run.y === y) return run.p;
+  run = { y, done: false, err: null };
+  const r0 = run;
+  const prompt = "Skriv på svenska om året " + y + ", med fokus på Sverige men gärna världen också. " +
+    "Skriv sex avsnitt i exakt denna ordning, vart och ett med rubrikraden '## nyckel' och sedan punkter som börjar med '- ', en per rad. Ingen inledning eller avslutning. " +
+    sections.map(([k, , d]) => "## " + k + ": " + (k === "musik" ? "6" : "3") + " punkter om " + d + ".").join(" ") +
+    " Håll punkterna korta (max 15 ord). Håll dig till det du är rimligt säker på, avrunda siffror (skriv 'ungefär') och undvik exakta datum.";
+  r0.p = (async () => {
+    const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 60000);
+    try {
+      const sample = await getSample();
+      if (!sample) throw { code: "unavailable" };
+      const r = await sample(prompt, { modelTier: "quick", signal: ctl.signal, cache: { gcTime: 86400000 },
+        onText: ({ text }) => { if (run !== r0) return; parseInto(text, false); renderAll(); } });
+      if (run === r0) parseInto(r.text, true);
+    } catch (e) {
+      r0.err = ctl.signal.aborted ? errMsg({ code: "timeout" }, "Försök igen") : (e && e.code === "unavailable") ? "AI-funktionen är inte tillgänglig här." : errMsg(e, "Försök igen");
+    } finally { clearTimeout(t); r0.done = true; if (run === r0) { sections.forEach(([k]) => { if (cache[k]) cache[k].done = true; }); renderAll(); } }
+  })();
+  return r0.p;
+}
+function fetchSec(){ return fetchYear(year); }
+function prefetchAll(y){ return fetchYear(y); }
+
+$("go").addEventListener("click", () => {
+  const y = parseInt($("yr").value, 10);
+  if (!y || y < 1900 || y > 2025) { $("status").textContent = "Skriv ett årtal mellan 1900 och 2025."; return; }
+  year = y; cache = {}; run = null;
+  $("status").textContent = "";
+  $("out").innerHTML = '<p class="sub" style="margin:18px 0 0">År ' + y + '. Tryck på Visa för att öppna en ruta.</p>' +
+    [["pengar", "Vad var 100 kr värda?", moneyHtml(y)], ["villa", "Villapriser enligt SCB-statistik", villaHtml(y)]].map(([k, t, h]) => '<div class="card"><div class="head"><h2>' + esc(t) + '</h2><button class="ghost tg" data-k="' + k + '" data-static="1">Visa</button></div><div id="box-' + k + '" class="hidden">' + h + '</div></div>').join("") +
+    sections.map(([k, t]) => '<div class="card"><div class="head"><h2>' + esc(t) + '</h2><button class="ghost tg" data-k="' + k + '">Visa</button></div><div id="box-' + k + '" class="hidden"></div></div>').join("") +
+    '<button class="ghost all" id="openall">Visa alla</button>' +
+    '<div class="card" id="postercard" style="margin-top:26px"><p class="qtitle" style="font-size:1.3rem">Födelseårsposter</p>' +
+    '<p class="sub" style="margin:6px 0 10px">Skapa en retroposter för ' + y + ' att skriva ut eller ge bort i present.</p>' +
+    '<div class="row"><input id="pstname" placeholder="Namn på postern (valfritt)" maxlength="22" style="font-size:1rem"><button id="pstgo" type="button">Skapa</button></div>' +
+    '<div id="pststatus" class="sub" style="margin:8px 0 0"></div><div id="pstout"></div></div>';
+  document.querySelectorAll(".tg").forEach(b => b.addEventListener("click", () => {
+    const k = b.dataset.k, box = $("box-" + k);
+    const open = box.classList.toggle("hidden") === false;
+    b.textContent = open ? "Dölj" : "Visa";
+    if (open && !b.dataset.static) { fetchSec(k); renderSec(k); }
+    syncAll();
+  }));
+  function syncAll(){
+    const anyClosed = [...document.querySelectorAll(".tg")].some(b => $("box-" + b.dataset.k).classList.contains("hidden"));
+    $("openall").textContent = anyClosed ? "Visa alla" : "Dölj alla";
+  }
+  $("openall").addEventListener("click", () => {
+    const btns = [...document.querySelectorAll(".tg")];
+    const anyClosed = btns.some(b => $("box-" + b.dataset.k).classList.contains("hidden"));
+    btns.forEach(b => { const k = b.dataset.k; $("box-" + k).classList.toggle("hidden", !anyClosed); b.textContent = anyClosed ? "Dölj" : "Visa"; if (anyClosed && !b.dataset.static) { fetchSec(k); renderSec(k); } });
+    syncAll();
+    if (btns[0]) btns[0].closest(".card").scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+  $("pstgo").addEventListener("click", () => makePoster(y));
+  addYear(y);
+  ensureAI().then(ok => { if (ok && year === y) prefetchAll(y); });
+});
+
+function addYear(y){const g=$("grp"),a=g.value.split(/[ ,]+/).filter(Boolean);if(!a.includes(String(y))){a.push(String(y));g.value=a.join(", ");}}
+
+function groupYears(){
+  return [...new Set($("grp").value.split(/[ ,]+/).map(Number).filter(n => n >= 1900 && n <= 2025))];
+}
+function yearsKey(){ return groupYears().sort().join(","); }
+function pickYear(){
+  const yrs = groupYears();
+  if (!yrs.length) return 1950 + Math.floor(Math.random()*75);
+  const pool = (cur && yrs.length > 1) ? yrs.filter(y => y !== cur.y) : yrs;
+  return pool[Math.floor(Math.random()*pool.length)];
+}
+
+const THEMES = ["sport", "musik", "film och tv", "teknik och prylar", "mode och trender", "mat och dryck", "vetenskap och rymden", "politik och samhälle", "kuriosa och udda nyheter", "något som hände i Sverige", "leksaker, spel och fritid", "kungligheter och kändisar"];
+function askedFor(y){ try { const a = JSON.parse(localStorage.getItem("nostalgi_asked") || "{}"); return Array.isArray(a[y]) ? a[y] : []; } catch (e) { return []; } }
+function rememberAsked(y, txt){ try { const a = JSON.parse(localStorage.getItem("nostalgi_asked") || "{}"); const l = Array.isArray(a[y]) ? a[y] : []; l.push(String(txt).slice(0, 90)); a[y] = l.slice(-30); localStorage.setItem("nostalgi_asked", JSON.stringify(a)); } catch (e) {} }
+const sessionAsked = {};
+async function makeQuestion(y, ctx){
+  const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 40000);
+  try {
+    const sample = await getSample();
+    if (!sample) throw { code: "unavailable" };
+    const avoid = [...new Set([...askedFor(y), ...(sessionAsked[y] || [])])];
+    const theme = THEMES[Math.floor(Math.random() * THEMES.length)];
+    const prompt = "Skapa en quizfråga på svenska om en verklig, väldokumenterad och gärna rolig eller udda händelse som inträffade år " + y + " (Sverige eller världen). " +
+      "Tema den här gången: " + theme + " (välj ett annat tema om du inte är säker på något inom det). " +
+      (avoid.length ? "Dessa händelser har redan använts, välj något helt annat: " + avoid.join(" | ") + ". " : "") +
+      "Välj bara en händelse där du är helt säker på exakt år och datum. Hitta aldrig på något. " +
+      (ctx && !ctx.neutral ? "Inled frågan exakt med 'Samma år som " + ctx.name + " " + ctx.label + "' och beskriv sedan händelsen. " : "") +
+      "Beskriv händelsen i max två meningar och avsluta med frågan 'Vilket år hände detta?'. Fråga aldrig efter namn eller datum, bara efter året, och nämn eller avslöja aldrig årtalet. " +
+      "Svara med exakt tre rader och inget annat:\nFRAGA: <frågan>\nDATUM: <exakt datum, t.ex. 14 mars " + y + ">\nFORKLARING: <1-2 meningar om vad som hände>";
+    const r = await sample(prompt, { modelTier: "quick", signal: ctl.signal, cache: false });
+    const get = key => { const m = String(r.text).match(new RegExp(key + ":\\s*(.+)", "i")); return m ? m[1].trim() : ""; };
+    const d = { fraga: get("FRAGA"), datum: get("DATUM"), forklaring: get("FORKLARING") };
+    if (!d.fraga) throw new Error("tomt");
+    const key = d.forklaring || d.fraga;
+    (sessionAsked[y] = sessionAsked[y] || []).push(String(key).slice(0, 90));
+    rememberAsked(y, key);
+    return { y, d, ctx };
+  } catch (e) {
+    if (ctl.signal.aborted) throw { code: "timeout" };
+    throw e;
+  } finally { clearTimeout(t); }
+}
+
+let cur = null, nextQ = null, nextKey = null;
+function prefetchQuestion(){ nextKey = yearsKey(); const y = pickYear(); nextQ = makeQuestion(y).catch(() => null); }
+
+function showQuestion(q){
+  cur = q; const { y, d } = q;
+  $("qbox").innerHTML =
+    (q.ctx && q.ctx.bonus ? '<div class="banner" style="margin:14px 0 0;background:var(--gold)"><span><strong>⭐ Bonusfråga om ' + esc(q.ctx.name) + (/[sxz]$/i.test(q.ctx.name) ? '' : 's') + ' liv</strong><br><span style="font-size:.85rem">Året hänger ihop med något viktigt som hänt. Värd dubbla poäng!</span></span></div>' : '') +
+    '<p style="margin:14px 0">' + esc(d.fraga) + '</p>' +
+    '<div class="row"><input id="gs" type="number" inputmode="numeric" placeholder="Gissa året"><button id="gb">Gissa</button></div>' +
+    '<div id="fb" class="sub" style="margin:8px 0 0"></div>' +
+    '<div class="row" style="margin-top:10px"><button id="tip" class="ghost" type="button" style="flex:1">Tips</button><button id="rv" class="ghost" style="flex:1">Visa svar</button></div>' +
+    '<div id="tipbox" class="sub" style="margin:8px 0 0"></div>' +
+    '<div id="ans" class="answer hidden"><div class="year">' + y + '</div>' +
+    (d.datum ? '<div><strong>Datum:</strong> ' + esc(d.datum) + '</div>' : '') +
+    '<div style="margin-top:6px">' + esc(d.forklaring || "") + '</div>' +
+    (q.ctx ? '<div style="margin-top:6px"><strong>' + esc(q.ctx.reveal || ("Det var året då " + q.ctx.name + " " + q.ctx.label + "!")) + '</strong></div>' : '') +
+    (players.length ? '<div class="sub" style="margin:8px 0 0">Spelledare: dela ut poäng i poängtavlan nedan.</div>' : '') + '</div>';
+  $("gb").addEventListener("click", () => {
+    const g = parseInt($("gs").value, 10);
+    if (!g) { $("fb").textContent = "Skriv ett årtal först."; return; }
+    const diff = g - cur.y, a = Math.abs(diff);
+    const pick = arr => arr[Math.floor(Math.random() * arr.length)];
+    const dir = diff > 0 ? "Det hände lite tidigare än du tror." : "Det hände lite senare än du tror.";
+    const yrs = a === 1 ? "ett år" : a + " år";
+    let msg;
+    if (a === 0) msg = pick([
+      "Pang på rätt år! Du är ju en vandrande tidsmaskin. 🎉",
+      "Rätt! Har du smygläst i facit eller levde du bara extra intensivt det året?",
+      "Exakt rätt! Ta en bugning, sällskapet är imponerat."
+    ]);
+    else if (a <= 2) msg = pick([
+      "Oj då, där svarade du nästan rätt! Bara " + yrs + " ifrån, bra gissat.",
+      "Så nära! " + yrs.charAt(0).toUpperCase() + yrs.slice(1) + " fel, det räknas nästan som rätt.",
+      "Brännhett! Du missade med " + yrs + ", minnet sitter nästan där."
+    ]);
+    else if (a <= 9) msg = pick([
+      "Inte illa, men inte heller helt rätt. " + dir,
+      "Ljummet! Du var " + yrs + " bort. " + dir,
+      "Du är i rätt årtionde, ungefär. " + dir
+    ]);
+    else msg = pick([
+      "Du missade nog lektionerna i det ämnet, bättre lycka nästa gång! " + dir,
+      "Aj aj, " + yrs + " fel. Tidsmaskinen verkar ha kraschat. " + dir,
+      "Kallt som en vinter i Norrbotten! " + dir,
+      "Det där var en modig gissning. Fel, men modig. " + dir
+    ]);
+    $("fb").textContent = msg;
+  });
+  const dec = Math.floor(y / 10) * 10, half = (y % 10) < 5 ? "i början av" : "i slutet av";
+  const tips = ["Tips: det hände på " + dec + "-talet.", "Tips 2: det var " + half + " " + dec + "-talet."];
+  let tipN = 0;
+  $("tip").addEventListener("click", () => {
+    if (tipN < tips.length) { $("tipbox").innerHTML = tips.slice(0, ++tipN).map(esc).join("<br>"); }
+    if (tipN >= tips.length) { $("tip").disabled = true; $("tip").textContent = "Inga fler tips"; }
+  });
+  $("rv").addEventListener("click", () => {
+    const box = $("ans"); const open = box.classList.toggle("hidden") === false;
+    $("rv").textContent = open ? "Dölj svar" : "Visa svar";
+  });
+}
+
+$("qgo").addEventListener("click", async () => {
+  if (bday) return bdayNext();
+  if (groupYears().length === 1) {
+    $("qbox").innerHTML = '<p class="sub" style="margin:12px 0 0">Lägg till fler årtal för att skapa en quizfråga, till exempel fler i sällskapets födelseår. Med bara ett årtal är svaret för lätt. Töm rutan om ni vill ha slumpade år.</p>';
+    return;
+  }
+  if (!(await ensureAI())) { $("qbox").innerHTML = '<p class="sub" style="margin:10px 0 0">Tillåt AI:n först (se meddelandet ovan).</p>'; return; }
+  $("qgo").disabled = true;
+  $("qbox").innerHTML = '<p class="sub" style="margin:10px 0 0">Hittar på en fråga …</p>';
+  try {
+    let q = (nextQ && nextKey === yearsKey()) ? await nextQ : null;
+    nextQ = null;
+    if (!q) q = await makeQuestion(pickYear());
+    showQuestion(q);
+    prefetchQuestion();
+  } catch (e) {
+    $("qbox").innerHTML = '<p class="sub" style="margin:10px 0 0">' + ((e && e.code === "unavailable") ? "AI-funktionen är inte tillgänglig här." : errMsg(e, "Ny fråga")) + '</p>';
+  } finally {
+    $("qgo").disabled = false;
+  }
+});
+
+$("yr").addEventListener("keydown", e => { if (e.key === "Enter") $("go").click(); });
+$("grpclear").addEventListener("click", () => { $("grp").value = ""; nextQ = null; $("grp").focus(); });
+
+const MAXP = 10;
+let players = [];
+try { players = JSON.parse(localStorage.getItem("nostalgi_players") || "[]"); if (!Array.isArray(players)) players = []; } catch (e) { players = []; }
+function saveP(){ try { localStorage.setItem("nostalgi_players", JSON.stringify(players)); } catch (e) {} }
+function renderP(){
+  const top = Math.max(0, ...players.map(p => p.s));
+  const order = players.map((p, i) => ({ p, i })).sort((a, b) => b.p.s - a.p.s);
+  $("plist").innerHTML = players.length ? order.map(({ p, i }) =>
+    '<div class="prow' + (top > 0 && p.s === top ? ' lead' : '') + '"><span class="pn">' + esc(p.n) + '</span><span class="ps">' + p.s + '</span>' +
+    '<button class="ghost" data-i="' + i + '" data-d="-1" aria-label="Ta bort en poäng från ' + esc(p.n) + '">−1</button>' +
+    '<button data-i="' + i + '" data-d="1" aria-label="Ge en poäng till ' + esc(p.n) + '">+1</button>' +
+    '<button data-i="' + i + '" data-d="3" aria-label="Ge tre poäng till ' + esc(p.n) + '">+3</button>' +
+    '<button class="ghost" data-i="' + i + '" data-del="1" aria-label="Ta bort ' + esc(p.n) + '">✕</button></div>').join("")
+    : '<p class="sub" style="margin:0">Inga spelare än.</p>';
+  $("plist").querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+    const i = +b.dataset.i;
+    if (b.dataset.del) players.splice(i, 1); else players[i].s = Math.max(0, players[i].s + +b.dataset.d);
+    saveP(); renderP();
+  }));
+}
+function addPlayer(){
+  const n = $("pname").value.trim();
+  $("pmsg").textContent = "";
+  if (!n) { $("pmsg").textContent = "Skriv ett namn först."; return; }
+  if (players.length >= MAXP) { $("pmsg").textContent = "Max " + MAXP + " spelare, annars blir det för rörigt."; return; }
+  if (players.some(p => p.n.toLowerCase() === n.toLowerCase())) { $("pmsg").textContent = "Det namnet finns redan."; return; }
+  players.push({ n, s: 0 }); saveP(); renderP(); $("pname").value = ""; $("pname").focus();
+}
+$("padd").addEventListener("click", addPlayer);
+$("pname").addEventListener("keydown", e => { if (e.key === "Enter") addPlayer(); });
+$("preset").addEventListener("click", () => { players.forEach(p => p.s = 0); saveP(); renderP(); });
+$("pclear").addEventListener("click", () => { players = []; saveP(); renderP(); });
+renderP();
+
+const ETSY_URL = "";
+function wrapText(ctx, text, maxW){
+  const words = String(text).split(/\s+/), lines = []; let line = "";
+  words.forEach(w => { const test = line ? line + " " + w : w; if (ctx.measureText(test).width > maxW && line) { lines.push(line); line = w; } else line = test; });
+  if (line) lines.push(line); return lines;
+}
+function shortItem(s, n){ s = String(s).replace(/\s*\([^)]*\)\s*$/, "").trim(); return s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…" : s; }
+async function makePoster(y){
+  const name = $("pstname").value.trim();
+  $("pstgo").disabled = true; $("pstout").innerHTML = "";
+  try {
+    $("pststatus").textContent = "Samlar ihop året …";
+    if (await ensureAI()) { try { await fetchYear(y); } catch (e) {} }
+    if (year !== y) return;
+    try { await Promise.all([document.fonts.load('400 100px "Shrikhand"'), document.fonts.load('400 40px "Space Mono"'), document.fonts.load('700 40px "Space Mono"')]); } catch (e) {}
+    $("pststatus").textContent = "Ritar postern …";
+    const W = 2400, H = 3000, c = document.createElement("canvas"); c.width = W; c.height = H;
+    const x = c.getContext("2d"), INK = "#3a2a20", OR = "#dc6230", MUTED = "#7a6553";
+    x.fillStyle = "#f6e8cf"; x.fillRect(0, 0, W, H);
+    x.strokeStyle = INK; x.lineWidth = 10; x.strokeRect(70, 70, W - 140, H - 140);
+    const cx = W / 2, R = [190, 148, 106, 64], col = ["#c8563f", "#e7a46d", "#f2c66e", "#829d7b"], by = 420;
+    R.forEach((r, i) => { x.beginPath(); x.moveTo(cx - r, by); x.arc(cx, by, r, Math.PI, 0); x.closePath(); x.fillStyle = col[i]; x.fill(); });
+    x.fillStyle = "#6b3d2a"; x.fillRect(cx - 190, by - 4, 380, 12);
+    x.textAlign = "center"; x.textBaseline = "alphabetic";
+    x.fillStyle = INK; x.font = '400 54px "Space Mono", monospace';
+    x.fillText("Å R E T   D U   F Ö D D E S", cx, 560);
+    x.fillStyle = OR; x.font = '400 500px "Shrikhand", Georgia, serif'; x.fillText(String(y), cx, 1040);
+    let top = 1110;
+    if (name) { x.fillStyle = INK; x.font = '400 120px "Shrikhand", Georgia, serif'; x.fillText("Grattis, " + name + "!", cx, top + 70); top += 140; }
+    const sec = (title, items, yy) => {
+      x.textAlign = "left"; x.fillStyle = OR; x.font = '700 58px "Space Mono", monospace'; x.fillText(title, 220, yy); yy += 30;
+      x.fillStyle = INK; x.fillRect(220, yy, W - 440, 5); yy += 80;
+      x.font = '400 50px "Space Mono", monospace';
+      items.forEach(it => { wrapText(x, it, W - 520).slice(0, 2).forEach((ln, j) => { x.fillStyle = INK; x.fillText((j ? "  " : "• ") + ln, 240, yy); yy += 66; }); yy += 12; });
+      return yy + 40;
+    };
+    let yy = top + 60;
+    const music = cache.musik ? toLines(cache.musik.text).slice(0, 3).map(s => shortItem(s, 70)) : [];
+    const events = cache.handelser ? toLines(cache.handelser.text).slice(0, 3).map(s => shortItem(s, 90)) : [];
+    if (music.length) yy = sec("MUSIK", music, yy);
+    if (events.length) yy = sec("HÄNDELSER", events, yy);
+    const k = kpi(y), kNow = KPI[KPI.length - 1], prices = [];
+    if (k && y !== KPI_NOW_YEAR) prices.push("100 kr då motsvarar ca " + kr(100 * kNow / k) + " idag");
+    if (y >= IDX_FROM) VILLA.forEach(v => prices.push("Villa " + (v.short || v.name) + ": ca " + kr(round10k(villaPrice(v, y)))));
+    if (prices.length) yy = sec("PRISER", prices, yy);
+    x.textAlign = "center"; x.fillStyle = OR; x.font = '400 110px "Shrikhand", Georgia, serif'; x.fillText("nostalgi", cx, H - 230);
+    x.fillStyle = MUTED; x.font = '400 40px "Space Mono", monospace'; x.fillText("nostalgi.me", cx, H - 160);
+    const url = c.toDataURL("image/png");
+    $("pststatus").textContent = "";
+    $("pstout").innerHTML = '<img src="' + url + '" alt="Födelseårsposter för ' + y + '" style="width:100%;margin-top:12px;border:2px solid var(--ink);display:block">' +
+      '<button id="pstdl" type="button" style="width:100%;margin-top:12px">Ladda ner poster (PNG)</button><div id="pstdlmsg" class="sub" style="margin:6px 0 0"></div>' +
+      (ETSY_URL ? '<a class="btn line" href="' + ETSY_URL + '" target="_blank" rel="noopener" style="display:block;text-align:center;margin-top:10px">Fler retrotavlor i min Etsy-butik</a>' : '') +
+      '<p class="sub" style="margin:8px 0 0;font-size:.78rem">Storlek 24×30 cm (8×10 tum) i 300 dpi, perfekt för en ram.</p>';
+    $("pstdl").addEventListener("click", async () => {
+      const msg = $("pstdlmsg"); msg.textContent = "";
+      try {
+        const dl = await claude.use("downloads");
+        if (!dl) { msg.textContent = "Nedladdning fungerar inte här. Håll fingret på bilden och välj Spara bild."; return; }
+        const blob = await new Promise(r => c.toBlob(r, "image/png"));
+        await dl.save({ filename: "nostalgi-" + y + (name ? "-" + name.toLowerCase().replace(/[^a-z0-9åäö]+/gi, "-") : "") + ".png", data: blob });
+        msg.textContent = "Klart!";
+      } catch (e) {
+        msg.textContent = (e && e.code === "declined") ? "Nedladdningen avbröts." : "Det gick inte att ladda ner. Håll fingret på bilden och välj Spara bild.";
+      }
+    });
+  } catch (e) {
+    $("pststatus").textContent = "Något gick fel när postern skulle skapas. Försök igen.";
+  } finally { $("pstgo").disabled = false; }
+}
+
+let bday = null;
+function addMile(label, yr){
+  const d = document.createElement("div"); d.className = "mrow";
+  d.innerHTML = '<input class="ml" maxlength="30" placeholder="t.ex. tog studenten"><input class="my" type="number" inputmode="numeric" placeholder="År"><button class="ghost" type="button" aria-label="Ta bort händelse">✕</button>';
+  d.querySelector(".ml").value = label || ""; d.querySelector(".my").value = yr || "";
+  d.querySelector("button").addEventListener("click", () => d.remove());
+  $("bmiles").appendChild(d);
+}
+$("baddm").addEventListener("click", () => { if ($("bmiles").children.length < 10) addMile("", ""); });
+function shuffle(a){ for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function renderBanner(){
+  $("grpwrap").classList.toggle("hidden", !!bday);
+  $("secretnote").classList.toggle("hidden", !bday);
+  if (bday) $("secretnote").innerHTML = '<strong>🔒 Hemliga årtal</strong><br><span class="sub" style="margin:0">Frågorna kommer från ' + (bday.hasMiles ? 'hemliga år i ' + esc(bday.name) + (/[sxz]$/i.test(bday.name) ? '' : 's') + ' liv: runt födelseåret och från viktiga händelser.' : 'tre hemliga år runt ' + esc(bday.name) + (/[sxz]$/i.test(bday.name) ? '' : 's') + ' födelseår.') + ' Vilket år det gäller avslöjas först när ni trycker på Visa svar.</span>';
+  if (!bday) { $("bbanner").innerHTML = ""; return; }
+  $("bbanner").innerHTML = '<div class="banner"><span><strong>Födelsedagsquiz för ' + esc(bday.name) + '</strong><br><span class="sub" style="margin:0">Fråga ' + bday.n + ' av ' + bday.total + '</span></span><button class="ghost" id="bstop" type="button">Avsluta</button></div>';
+  $("bstop").addEventListener("click", () => { bday = null; nextQ = null; renderBanner(); $("qbox").innerHTML = ""; $("qgo").textContent = "Ny fråga"; });
+}
+$("bstart").addEventListener("click", () => {
+  const name = $("bname").value.trim(), born = parseInt($("bborn").value, 10);
+  $("bmsg").textContent = "";
+  if (!name) { $("bmsg").textContent = "Skriv födelsedagsbarnets namn först."; return; }
+  if (!(born >= 1900 && born <= 2025)) { $("bmsg").textContent = "Fyll i vilket år " + name + " föddes (mellan 1900 och 2025)."; return; }
+  const rel = d => d === 0 ? name + " föddes" : Math.abs(d) + " år " + (d < 0 ? "innan" : "efter att") + " " + name + " föddes";
+  const near = [];
+  [-1, 0, 1].forEach(d => { const yy = born + d; if (yy >= 1900 && yy <= 2025) near.push({ name, year: yy, neutral: true, reveal: "Det var " + (d === 0 ? "året då " : "") + rel(d) + "!" }); });
+  const miles = [...$("bmiles").children].map(r => ({ name, label: r.querySelector(".ml").value.trim(), year: parseInt(r.querySelector(".my").value, 10) }))
+    .filter(it => it.label && it.year >= 1900 && it.year <= 2025)
+    .map(it => {
+      const verb = /^(tog|gifte|fick|flyttade|började|köpte|blev|var|åkte|bytte|startade|förlovade|vann)\b/i.test(it.label);
+      const gen = name + (/[sxz]$/i.test(name) ? "" : "s");
+      return { name, year: it.year, neutral: true, bonus: true, reveal: verb ? "Det var året då " + name + " " + it.label + "!" : "Det var året för " + gen + " " + it.label.charAt(0).toLowerCase() + it.label.slice(1) + "!" };
+    });
+  const total = parseInt($("bcount").value, 10);
+  const bornItem = near.find(i => i.year === born), around = near.filter(i => i.year !== born);
+  const mCount = miles.length ? Math.round(total * 0.6) : 0;
+  const bCount = miles.length ? Math.round(total * 0.3) : Math.round(total * 0.6);
+  const aCount = total - mCount - bCount;
+  const picked = [];
+  for (let i = 0, ms = []; i < mCount; i++) { if (!ms.length) ms = shuffle(miles.slice()); picked.push(ms.pop()); }
+  for (let i = 0; i < bCount; i++) picked.push(bornItem);
+  for (let i = 0, as = []; i < aCount; i++) { if (!as.length) as = shuffle(around.slice()); picked.push(as.pop() || bornItem); }
+  const pool = shuffle(picked), queue = [];
+  while (pool.length) {
+    const last = queue.length ? queue[queue.length - 1].year : null;
+    const counts = {}; pool.forEach(p => counts[p.year] = (counts[p.year] || 0) + 1);
+    const ok = pool.map((p, i) => i).filter(i => pool[i].year !== last);
+    const cand = ok.length ? ok : pool.map((p, i) => i);
+    const forced = cand.filter(i => counts[pool[i].year] * 2 >= pool.length);
+    const top = forced.length ? forced : cand;
+    queue.push(pool.splice(top[Math.floor(Math.random() * top.length)], 1)[0]);
+  }
+  bday = { name, total, n: 0, queue, hasMiles: miles.length > 0 };
+  nextQ = null; renderBanner();
+  $("quiz").scrollIntoView({ behavior: "smooth", block: "start" });
+  bdayNext();
+});
+async function bdayNext(){
+  if (!bday) return;
+  if (bday.n >= bday.total) {
+    const top = players.length ? Math.max(...players.map(p => p.s)) : 0;
+    const win = players.filter(p => p.s === top && top > 0).map(p => p.n);
+    $("qbox").innerHTML = '<div class="answer" style="margin-top:14px"><div class="year" style="font-size:1.6rem">Quizet är slut!</div><div style="margin-top:6px">Grattis på födelsedagen, ' + esc(bday.name) + '! 🎂</div>' + (win.length ? '<div style="margin-top:6px">Vinnare: <strong>' + win.map(esc).join(", ") + '</strong> 👑</div>' : '') + '</div>' + etsyPromo(true);
+    bday = null; nextQ = null; renderBanner(); $("qgo").textContent = "Ny fråga"; return;
+  }
+  if (!(await ensureAI())) { $("qbox").innerHTML = '<p class="sub" style="margin:10px 0 0">Tillåt AI:n först (se meddelandet ovan).</p>'; return; }
+  const b = bday, i = b.n, ctx = b.queue[i];
+  $("qgo").disabled = true;
+  $("qbox").innerHTML = '<p class="sub" style="margin:10px 0 0">Hittar på en fråga …</p>';
+  try {
+    let q = (nextQ && nextKey === "bday:" + i) ? await nextQ : null;
+    nextQ = null;
+    if (!q) q = await makeQuestion(ctx.year, ctx);
+    if (bday !== b) return;
+    b.n = i + 1; renderBanner(); showQuestion(q);
+    $("qgo").textContent = b.n >= b.total ? "Visa resultat" : "Nästa fråga";
+    if (b.n < b.total) { const nx = b.queue[b.n]; nextKey = "bday:" + b.n; nextQ = makeQuestion(nx.year, nx).catch(() => null); }
+  } catch (e) {
+    $("qbox").innerHTML = '<p class="sub" style="margin:10px 0 0">' + ((e && e.code === "unavailable") ? "AI-funktionen är inte tillgänglig här." : errMsg(e, "Nästa fråga")) + '</p>';
+  } finally { $("qgo").disabled = false; }
+}
+
+function etsyPromo(big){
+  if (!ETSY_URL) return "";
+  if (!big) return '<p class="sub" style="margin:24px 0 0;text-align:center">Gillar du retrostilen? <a href="' + ETSY_URL + '" target="_blank" rel="noopener" style="color:var(--orange);font-weight:700">Se tavlorna i min Etsy-butik</a></p>';
+  return '<div class="card" style="margin-top:18px;background:var(--cream);text-align:center">' +
+    '<p class="qtitle" style="font-size:1.3rem">Ta med minnet hem</p>' +
+    '<p style="margin:8px 0 14px">Retrotavlor i samma stil som quizet, perfekta som present eller till väggen.</p>' +
+    '<a class="btn solid" href="' + ETSY_URL + '" target="_blank" rel="noopener" style="display:block">Till retrobutiken på Etsy</a></div>';
+}
+$("etsyfoot").innerHTML = etsyPromo(false);
+</script>
+</body>
+</html>
+
+</body></html>

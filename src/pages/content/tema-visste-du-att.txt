@@ -1,0 +1,35 @@
+path: artiklar/visste-du-att.html
+group: tema
+title: Visste du att? Rolig kuriosa från förr
+desc: Coca-Cola var förbjudet, Fröken Ur hade ett eget nummer och Sverige bytte körfält en söndagsmorgon. Rolig kuriosa från svensk historia.
+h1: Visste du att?
+lead: Små fakta från förr som är perfekta att dra på kalaset, vid middagsbordet eller i fikarummet.
+
+## Vardagen
+- Coca-Cola var inte tillåtet i Sverige förrän 1953.
+- Lördagsgodiset kommer från rådet att bara äta godis en dag i veckan för att skydda tänderna.
+- Den som ville veta exakt vad klockan var ringde Fröken Ur på 90 510.
+- Mjölken såldes länge i paket formade som pyramider, så kallade tetraedrar.
+- Ikeas första varuhus öppnade i Älmhult 1958.
+
+## Trafik och resor
+- Sverige bytte från vänstertrafik till högertrafik en söndagsmorgon i september 1967, Dagen H.
+- Volvo PV kallades puckelvolvo på grund av sin rundade form.
+- Bilbälte i framsätet blev obligatoriskt först i mitten av 1970-talet.
+- NMT, ett av världens första mobilnät, startade i Norden 1981.
+
+## Tv och musik
+- Svensk tv hade bara en kanal fram till slutet av 1969.
+- Färg-tv kom till Sverige 1970.
+- Melodifestivalen har arrangerats sedan 1959.
+- Kalle Anka har visats på julafton klockan 15 sedan början av 1960-talet.
+- ABBA vann Eurovision 1974 med Waterloo, i Brighton.
+
+## Samhälle
+- Sverige blev 1979 det första landet i världen att förbjuda aga av barn.
+- Astrid Lindgrens saga om Pomperipossa handlade om en skatt på över 100 procent och väckte stor debatt 1976.
+- Under kronkrisen 1992 höjde Riksbanken styrräntan tillfälligt till 500 procent.
+- Svenska kyrkan skildes från staten år 2000.
+
+## Prova själv
+Vill du veta vad som hände året du föddes? Skriv in ditt födelseår och se musik, händelser och priser, eller utmana familjen i quizet.

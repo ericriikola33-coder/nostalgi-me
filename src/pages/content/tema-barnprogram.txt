@@ -1,0 +1,30 @@
+path: artiklar/barnprogram.html
+group: tema
+title: Barnprogram genom tiderna: från Saltkråkan till Bolibompa
+desc: Minns du Vi på Saltkråkan, Pippi, Fem myror är fler än fyra elefanter och Björnes magasin? En resa genom svenska barnprogram.
+h1: Barnprogram genom tiderna
+lead: Få saker väcker så många minnen som barnprogrammen. Här är några av de program och figurer som generationer av svenska barn har vuxit upp med.
+
+## Astrid Lindgren i tv-rutan
+1960-talet bjöd på Vi på Saltkråkan, där Tjorven, Båtsman och Melker Melkersson gjorde skärgården till en drömvärld för barn i hela landet. Några år senare, 1969, kom tv-serien om Pippi Långstrump med Inger Nilsson i huvudrollen, och hennes skratt och styrka har sedan dess följt barn i många länder.
+
+I början av 1970-talet kom filmerna om Emil i Lönneberga, med hyss i snickerboa, soppskålen på huvudet och lilla Ida i flaggstången. De visas fortfarande ofta i tv, särskilt kring jul och sommarlov.
+
+## Bokstäver, siffror och myror
+Fem myror är fler än fyra elefanter sändes i mitten av 1970-talet och lärde barn bokstäver och siffror med sång och lek. Magnus Härenstam, Brasse Brännström och Eva Remaeus blev älskade figurer, och många kan fortfarande sjunga sångerna om alfabetet.
+
+## Bamse, Teskedsgumman och tecknade favoriter
+Bamse, världens starkaste björn, skapades av Rune Andréasson och fanns i tv innan tidningen kom. Hans dunderhonung och budskapet om att den som är stark också måste vara snäll har följt flera generationer.
+
+Under 1980-talet visades tecknade serier som Teskedsgumman, och lördagsmorgnarna kunde bjuda på både svenska och utländska tecknade favoriter.
+
+## Bolibompa och Björnes magasin
+I slutet av 1980-talet startade Bolibompa, som i dag är ett samlingsnamn för SVT:s program för de minsta. Björnes magasin, med björnen Björne, samlade barnen framför tv:n under många år och blandade sagor, sånger och fakta.
+
+## Julkalendern och Kalle Anka
+Den 1 december varje år startar SVT:s julkalender, och för många barn är luckan i pappkalendern en självklar del av advent. På julafton klockan 15 visas Kalle Anka och hans vänner önskar god jul, en tradition sedan början av 1960-talet som fortfarande samlar miljontals tittare.
+
+## Fler minnen
+- Bert, den tv-serie från 1990-talet som byggde på dagböckerna om en tonåring i Öreskoga
+- Lilla Sportspegeln, där barn fick visa upp sina idrotter och klubbar
+- Sommarlovsmorgnarna med tecknat, lekar och tävlingar på tv

@@ -1,0 +1,30 @@
+path: artiklar/tv-och-radio.html
+group: tema
+title: Tv och radio förr: testbild, Svensktoppen och Hylands hörna
+desc: När det bara fanns en tv-kanal, när färg-tv kom och vilka program som samlade hela Sverige. Tv och radio genom tiderna.
+h1: Tv och radio förr
+lead: Det fanns en tid då hela landet såg samma program samma kväll och pratade om det på jobbet dagen efter. Här är minnen från tv- och radiohistorien.
+
+## En kanal och en testbild
+När svensk tv startade på 1950-talet fanns bara en kanal och sändningar några timmar på kvällen. Under resten av dagen visades testbilden. Den andra kanalen, TV2, startade i slutet av 1969, och därmed fick tittarna för första gången välja.
+
+Färg-tv kom till Sverige 1970. Många minns när familjen köpte sin första färg-tv, eller när man gick till grannen för att se ett program i färg.
+
+## Program som samlade landet
+Lennart Hyland var en av tv:ns största profiler, och Hylands hörna lockade enorma publiker. I frågesporten Kvitt eller dubbelt kunde en deltagare vinna det som då var stora pengar, och hela Sverige satt och höll andan.
+
+Melodifestivalen har funnits sedan 1959 och är fortfarande en av årets största tv-händelser. På spåret, där lag reser med tåg i tv-rutan och gissar resmålet, har sänts sedan 1980-talet.
+
+## Svensktoppen och Tio i topp
+I radion startade Svensktoppen 1962 och blev en plats för dansband, schlager och svensk pop. Tio i topp var under 1960-talet och början av 70-talet det program där ungdomarna fick höra de nya hitsen och rösta fram sina favoriter.
+
+## Lördagskvällar och dokusåpor
+Under 1990-talet samlades miljontals svenskar framför Bingolotto på lördagskvällarna, med lotter, sånger och Leif "Loket" Olsson som programledare. 1997 kom Expedition Robinson, och snart blev dokusåpor en egen genre i svensk tv.
+
+## Prylarna runt tv:n
+Text-tv gav nyheter och sportresultat på ett nytt sätt. Videobandspelaren gjorde det möjligt att spela in program, och fjärrkontrollen gjorde slut på att någon behövde resa sig för att byta kanal.
+
+## Mer att minnas
+- Sportspegeln på söndagskvällar
+- Önskeprogram i radion, där lyssnare fick önska låtar och skicka hälsningar
+- Julafton med Kalle Anka klockan 15

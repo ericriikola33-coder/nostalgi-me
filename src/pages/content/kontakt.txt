@@ -1,0 +1,14 @@
+path: kontakt.html
+title: Kontakt
+desc: Kontakta nostalgi.me med frågor, rättelser eller förslag.
+h1: Kontakt
+lead: Har du hittat ett fel, har du en idé eller vill du bara säga hej? Hör gärna av dig.
+
+## E-post
+Skicka ett mejl till [kontakt@nostalgi.me](mailto:kontakt@nostalgi.me). Vi läser alla mejl och försöker svara inom några dagar.
+
+## Rättelser
+Om du har hittat något som inte stämmer, skriv gärna vilket år det gäller och vad som är fel. Har du en källa är det extra bra.
+
+## Samarbeten
+Är du intresserad av att samarbeta, till exempel kring retroposters eller quiz till ett evenemang? Mejla och berätta mer.

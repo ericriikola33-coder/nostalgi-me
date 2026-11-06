@@ -1,0 +1,21 @@
+path: om.html
+title: Om nostalgi.me
+desc: Om nostalgi.me, ett retrohörn på nätet med musik, händelser, priser och quiz för året du föddes.
+h1: Om nostalgi.me
+lead: nostalgi.me är ett litet retrohörn på nätet för alla som gillar att minnas, jämföra och prata om förr.
+
+## Vad du hittar här
+Skriv in ett årtal mellan 1950 och 2025 så får du se musik, idrottsögonblick, händelser och kuriosa från året. Du ser också ungefär vad 100 kronor var värda då jämfört med i dag och hur villapriserna har utvecklats, räknat fram från statistik från SCB.
+
+Sajten har också två quiz. I "Gissa året" tävlar sällskapet om vem som kommer närmast rätt årtal. Födelsedagsquizet sätter födelsedagsbarnet i centrum, med frågor från födelseåret och andra viktiga år i livet. Du kan även skapa en retroposter för ett födelseår att skriva ut eller ge bort.
+
+Under Artiklar finns längre texter om hur det var att leva under olika årtionden.
+
+## Varför sajten finns
+Idén är enkel: att ge något roligt att prata om på kalaset, vid middagsbordet eller med familjen. Vad kostade bensinen när mormor tog körkort? Vilken låt spelades när du föddes? Sådana frågor brukar väcka både minnen och skratt.
+
+## Om innehållet
+Innehållet är sammanställt med omsorg, men sajten är till för nöjes skull. Siffror är avrundade och ungefärliga, och det kan förekomma fel. Ser du något som inte stämmer får du gärna höra av dig via kontaktsidan, så rättar vi det.
+
+## Vem står bakom sajten
+nostalgi.me drivs av Eric Riikola. Har du frågor, tips eller förslag på vad som borde finnas med? Hör gärna av dig via kontaktsidan.

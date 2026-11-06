@@ -1,0 +1,28 @@
+path: artiklar/godis-och-mat.html
+group: tema
+title: Godis och mat förr: lördagsgodis, Ahlgrens bilar och korv stroganoff
+desc: Varför vi har lördagsgodis, när Coca-Cola kom till Sverige och vilka rätter som var vardag förr. Godis och mat genom tiderna.
+h1: Godis och mat förr
+lead: Smaker och dofter kan väcka minnen starkare än nästan något annat. Här är godiset, drickan och maten som många svenskar har vuxit upp med.
+
+## Därför har vi lördagsgodis
+Under 1940- och 50-talen gjordes undersökningar om socker och karies som visade hur skadligt det var att äta godis ofta. Följden blev rådet att begränsa godiset till en dag i veckan, och lördagsgodiset blev en svensk tradition som många fortfarande följer.
+
+## Godis som funnits länge
+Många av dagens klassiker har funnits sedan 1900-talets mitt. Kexchoklad lanserades redan på 1930-talet, och Ahlgrens bilar, "Sveriges mest köpta bil", kom 1953. Daim, Plopp och Dumle är andra namn som funnits i godishyllan i generationer.
+
+Från 1980-talet blev lösgodiset vanligt. Att stå med en papperspåse och skopa i godisväggen blev höjdpunkten på lördagen för många barn.
+
+## Coca-Cola kom sent
+Fram till 1953 var Coca-Cola inte tillåtet i Sverige, eftersom lagen inte godkände en av ingredienserna. Innan dess drack svenskarna i stället läsk som sockerdricka, pommac och must, som fortfarande hör till många högtider.
+
+## Mjölken i tetraedern
+Svenska Tetra Pak började på 1950-talet sälja mjölk och grädde i förpackningar formade som tetraedrar, en pyramid med fyra sidor. De var svåra att stapla i kylskåpet men är ett minne för många. Senare tog de fyrkantiga paketen över.
+
+## Vardagsmaten
+Falukorv, köttbullar, pannkakor med sylt, fiskpinnar och pyttipanna var vanlig vardagsmat. Ärtsoppa och pannkakor på torsdagar är en tradition som fortfarande lever på många skolor och arbetsplatser.
+
+Under 1970- och 80-talen blev korv stroganoff och pizza allt vanligare. Senare kom tacokvällen, och på 2000-talet blev fredagsmys ett eget begrepp, bland annat genom en chipsreklam.
+
+## Fika
+Kaffe och bullar, sju sorters kakor och prinsesstårta på kalaset. Fikat har länge varit en självklar del av den svenska vardagen, och kanelbullens dag firas den 4 oktober.

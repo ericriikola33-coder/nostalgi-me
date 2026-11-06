@@ -1,0 +1,26 @@
+path: artiklar/hemmet.html
+group: tema
+title: Hemmet förr: finrummet, teakmöbler och Billy
+desc: Från finrum och kakelugn till teak, orange 70-talskök och Ikeas Billy. Så har svenska hem förändrats genom tiderna.
+h1: Hemmet förr
+lead: Hur såg det ut hemma hos mormor och morfar? Här är minnen från svenska hem genom tiderna, från finrummet till den platta kartongen från Ikea.
+
+## Finrummet
+I många hem fanns ett finrum som bara användes när det kom gäster. Där stod de finaste möblerna, kristallen i vitrinskåpet och kanske en kakelugn. Barnen fick sällan leka där.
+
+## Moderna kök och nya maskiner
+Under 1950- och 60-talen blev kylskåp, elspis och tvättmaskin vanliga i svenska hem, och hushållsarbetet förändrades i grunden. I hyreshusen delade man tvättstuga, och bokningstavlan med namnlappar och lås var en källa till både ordning och konflikter.
+
+På 1980-talet kom mikrovågsugnen, och plötsligt kunde man värma maten på några minuter.
+
+## Teak, orange och brunt
+1960-talet präglades av teakmöbler i skandinavisk stil med raka linjer. Under 1970-talet var köken ofta orange, bruna eller gröna, med mönstrade tapeter och plastmattor på golvet. Mycket av det som en gång ansågs gammalmodigt är i dag eftertraktat på loppis.
+
+## Ikea och den platta kartongen
+Ikeas första varuhus öppnade i Älmhult 1958. Idén med platta paket som kunderna monterade själva gjorde möbler billigare och lättare att ta med hem. Bokhyllan Billy kom 1979 och finns i miljontals hem i hela världen. Ikea-katalogen var länge en av de mest lästa böckerna i Sverige.
+
+## Tupperware och kalasen
+Tupperwareparty, där en värdinna bjöd hem vänner för att visa plastburkar, var populärt under flera decennier. Till kalasen dukades med finporslinet, och sju sorters kakor var ett mått på en ordentlig fika.
+
+## Ljud och prylar
+Radiogrammofonen i vardagsrummet, ett dragspelssnöre för att tända lampan i taket, stereon med kassettdäck och senare videon under tv:n. Varje årtionde hade sina prylar som stolt visades upp för gästerna.

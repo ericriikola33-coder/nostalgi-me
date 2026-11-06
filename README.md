@@ -1,0 +1,14 @@
+# nostalgi.me
+
+Retrohörnet på nätet: året du föddes, quiz och artiklar om förr.
+
+- `site/` – den publicerade sajten (Cloudflare Pages, output directory `site`, inget byggkommando).
+- `src/` – källfiler: årsfakta (`data.txt`), artiklar (`pages/content`), byggskript.
+
+Bygga om sajten:
+
+```
+python3 -I src/build.py src/original-index.html src/data.txt site/index.html
+python3 -I src/pages/gen.py src/pages site
+python3 -I src/adsense.py site 9723217552460349
+```

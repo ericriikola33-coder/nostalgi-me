@@ -1,0 +1,27 @@
+path: artiklar/1980-talet.html
+title: 1980-talet: synth, Walkman och hemdatorer
+desc: Så var 1980-talet i Sverige: Europe och Roxette, Walkman och VHS, hemdatorer, nya tv-kanaler och mordet på Olof Palme.
+h1: 1980-talet
+lead: Ett årtionde av neonfärger, synthar och nya prylar. Samtidigt rymde 1980-talet några av de händelser som skakade Sverige allra mest.
+
+## Musik som erövrade världen
+Svensk musik nådde nya höjder. Europe fick en världshit med The Final Countdown, och Roxette började sin internationella karriär mot slutet av årtiondet. Herreys vann Eurovision 1984 med Diggi-Loo Diggi-Ley, i guldskor.
+
+Synthesizern förändrade popmusiken, och MTV gjorde musikvideon lika viktig som själva låten.
+
+## Prylarna som förändrade vardagen
+Med en Walkman kunde man ha musiken med sig överallt. Videobandspelaren gjorde det möjligt att hyra film och spela in tv-program, och videobutiken blev ett nytt fredagsnöje.
+
+Hemdatorerna kom in i barnens rum. Många skrev sina första program eller spelade sina första spel på en Commodore 64, och tv-spel som Pac-Man, Tetris och Super Mario blev en del av barndomen.
+
+## Fler tv-kanaler
+Länge fanns bara statens två tv-kanaler. I slutet av årtiondet började TV3 sända via satellit, och därmed fick svenska tittare reklam-tv för första gången. Det var början på en helt ny tv-värld.
+
+## Händelser som skakade Sverige
+Den 28 februari 1986 mördades statsminister Olof Palme på Sveavägen i Stockholm. Mordet chockade hela landet och var olöst i flera decennier. Bara två månader senare inträffade kärnkraftsolyckan i Tjernobyl, och radioaktivt nedfall nådde delar av Sverige.
+
+## Svenska idrottsframgångar
+IFK Göteborg vann UEFA-cupen två gånger, och svenska tennisspelare som Mats Wilander och Stefan Edberg tog flera Grand Slam-titlar. Tre Kronor vann VM-guld i Wien 1987.
+
+## Mode och stil
+Axelvaddar, permanentat hår, neonfärger, benvärmare och träningsoveraller syntes överallt. Aerobics blev en folkrörelse, och den som ville vara modern bar gärna kläder i glansiga material.

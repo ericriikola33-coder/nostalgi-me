@@ -1,0 +1,32 @@
+path: integritetspolicy.html
+title: Integritetspolicy och cookies
+desc: Hur nostalgi.me hanterar personuppgifter, cookies och annonser.
+h1: Integritetspolicy
+lead: Här beskriver vi vilka uppgifter som hanteras när du besöker nostalgi.me, hur cookies och annonser fungerar och vilka rättigheter du har.
+
+## Vem är ansvarig
+Personuppgiftsansvarig för nostalgi.me är Eric Riikola. Du når oss på [kontakt@nostalgi.me](mailto:kontakt@nostalgi.me).
+
+## Uppgifter som sparas i din webbläsare
+Sajten har inga användarkonton och vi ber dig inte om några personuppgifter. När du använder quizet sparas spelarnas namn, poäng och vilka frågor som redan visats i din egen webbläsare (så kallad lokal lagring), så att de finns kvar om du laddar om sidan. Uppgifterna skickas inte till oss och du kan när som helst ta bort dem med knapparna i poängtavlan eller genom att rensa webbplatsdata i din webbläsare.
+
+Namn du skriver in för poster eller födelsedagsquiz används bara för att visa dem på sidan och sparas inte hos oss.
+
+## Webbhotell och tekniska loggar
+Sajten levereras via Cloudflare. När du besöker en webbsida behandlar Cloudflare tekniska uppgifter som IP-adress, webbläsare och tidpunkt för att kunna visa sidan och skydda den mot attacker. Läs mer i [Cloudflares integritetspolicy](https://www.cloudflare.com/privacypolicy/).
+
+## Annonser och cookies
+Sajten kan visa annonser från Google AdSense. Tredjepartsleverantörer, inklusive Google, använder cookies för att visa annonser baserat på dina tidigare besök på den här och andra webbplatser. Googles användning av annonscookies gör det möjligt för Google och dess partner att visa annonser baserat på dina besök här och på andra webbplatser på internet.
+
+Du kan välja bort personanpassade annonser i [Googles annonsinställningar](https://myadcenter.google.com/). Mer information om hur Google använder uppgifter från webbplatser som använder Googles tjänster finns på [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
+
+Besökare inom EU, EES, Storbritannien och Schweiz får välja om de godkänner cookies för personanpassade annonser innan sådana används. Du kan ändra ditt val när som helst via knappen eller länken för cookieinställningar som visas på sidan när annonser är aktiverade.
+
+## Hur länge uppgifter sparas
+Uppgifter i din webbläsares lokala lagring finns kvar tills du tar bort dem. Hur länge Cloudflare och Google sparar uppgifter framgår av deras respektive integritetspolicyer.
+
+## Dina rättigheter
+Enligt dataskyddsförordningen (GDPR) har du rätt att få veta vilka personuppgifter som behandlas om dig, få dem rättade eller raderade och invända mot behandling. Kontakta oss om du vill använda dina rättigheter. Om du anser att dina uppgifter hanteras felaktigt kan du lämna klagomål till Integritetsskyddsmyndigheten (IMY).
+
+## Ändringar
+Vi kan uppdatera den här policyn, till exempel när nya funktioner läggs till. Den senaste versionen finns alltid på den här sidan.

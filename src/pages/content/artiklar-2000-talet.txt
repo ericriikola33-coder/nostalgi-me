@@ -1,0 +1,26 @@
+path: artiklar/2000-talet.html
+title: 2000-talet: mp3, Idol och Spotify
+desc: Så var 2000-talet i Sverige: millenniebuggen, Öresundsbron, Idol och Melodifestivalens turné, mp3-spelare, Facebook och Spotify.
+h1: 2000-talet
+lead: Ett nytt millennium och ett digitalt skifte. Musiken flyttade in i datorn och telefonen, och sociala medier förändrade hur vi höll kontakten med varandra.
+
+## Ett nytt millennium
+Inför år 2000 fanns en stor oro för millenniebuggen, att datorer inte skulle klara årsskiftet. Nästan ingenting hände. Samma år invigdes Öresundsbron mellan Malmö och Köpenhamn, och Svenska kyrkan skildes från staten.
+
+## Svåra år
+Utrikesminister Anna Lindh mördades i Stockholm 2003, samma år som svenskarna röstade nej till euron. Under julhelgen 2004 drabbade tsunamin i Indiska oceanen tusentals svenska turister, och få händelser har berört så många familjer i Sverige. I januari 2005 fällde stormen Gudrun enorma mängder skog i södra Sverige.
+
+## Underhållning för hela familjen
+Melodifestivalen fick sitt moderna format med deltävlingar i olika städer, och lördagskvällarna under vintern blev en folkfest. Idol, Fame Factory och andra talangtävlingar gjorde vanliga ungdomar till kändisar över en natt.
+
+## Musiken blir digital
+Mp3-filer och fildelning förändrade hur musik spreds, och Ipoden gjorde det möjligt att ha tusentals låtar i fickan. 2008 lanserades svenska Spotify, som skulle bli ett av världens största sätt att lyssna på musik.
+
+## Sociala medier
+Sms var länge det självklara sättet att höra av sig, ofta med förkortningar för att få plats. Senare under årtiondet kom Facebook, och plötsligt kunde man hitta gamla klasskamrater och dela bilder med alla vänner på en gång.
+
+## Idrott
+Zlatan Ibrahimović slog igenom och blev en av världens bästa fotbollsspelare. Tre Kronor vann OS-guld i Turin 2006, och samma år tog laget även VM-guld. I friidrotten tog Stefan Holm och Christian Olsson OS-guld i Aten 2004.
+
+## Mode och stil
+Lågmidjade jeans, stora solglasögon och tröjor med tryck präglade början av årtiondet. Mot slutet blev tighta jeans, skinnjackor och en emoinspirerad stil vanlig bland unga.
