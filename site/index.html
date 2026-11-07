@@ -447,7 +447,7 @@ $("preset").addEventListener("click", () => { players.forEach(p => p.s = 0); sav
 $("pclear").addEventListener("click", () => { players = []; saveP(); renderP(); });
 renderP();
 
-const ETSY_URL = "https://riikolaz.gumroad.com/";
+const ETSY_URL = "https://riikola.gumroad.com/";
 function wrapText(ctx, text, maxW){
   const words = String(text).split(/\s+/), lines = []; let line = "";
   words.forEach(w => { const test = line ? line + " " + w : w; if (ctx.measureText(test).width > maxW && line) { lines.push(line); line = w; } else line = test; });
