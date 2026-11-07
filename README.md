@@ -12,6 +12,7 @@ python3 -I src/build.py src/original-index.html src/data.txt site/index.html
 python3 -I src/pages/gen.py src/pages site
 python3 -I src/adsense.py site 9723217552460349
 python3 -I src/goatcounter.py site nostalgime
+python3 -I src/shop.py site ""   # butikens adress, t.ex. https://riikola.gumroad.com/ (tomt = dold)
 ```
 
 ## Publicering

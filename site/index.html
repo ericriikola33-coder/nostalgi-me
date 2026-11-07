@@ -498,7 +498,7 @@ async function makePoster(y){
     $("pststatus").textContent = "";
     $("pstout").innerHTML = '<img src="' + url + '" alt="Födelseårsposter för ' + y + '" style="width:100%;margin-top:12px;border:2px solid var(--ink);display:block">' +
       '<button id="pstdl" type="button" style="width:100%;margin-top:12px">Ladda ner poster (PNG)</button><div id="pstdlmsg" class="sub" style="margin:6px 0 0"></div>' +
-      (ETSY_URL ? '<a class="btn line" href="' + ETSY_URL + '" target="_blank" rel="noopener" style="display:block;text-align:center;margin-top:10px">Fler retrotavlor i min Etsy-butik</a>' : '') +
+      (ETSY_URL ? '<a class="btn line" href="' + ETSY_URL + '" target="_blank" rel="noopener" style="display:block;text-align:center;margin-top:10px">Fler retrotavlor i min butik</a>' : '') +
       '<p class="sub" style="margin:8px 0 0;font-size:.78rem">Storlek 24×30 cm (8×10 tum) i 300 dpi, perfekt för en ram.</p>';
     $("pstdl").addEventListener("click", async () => {
       const msg = $("pstdlmsg"); msg.textContent = "";
@@ -603,11 +603,11 @@ async function bdayNext(){
 
 function etsyPromo(big){
   if (!ETSY_URL) return "";
-  if (!big) return '<p class="sub" style="margin:24px 0 0;text-align:center">Gillar du retrostilen? <a href="' + ETSY_URL + '" target="_blank" rel="noopener" style="color:var(--orange);font-weight:700">Se tavlorna i min Etsy-butik</a></p>';
+  if (!big) return '<p class="sub" style="margin:24px 0 0;text-align:center">Gillar du retrostilen? <a href="' + ETSY_URL + '" target="_blank" rel="noopener" style="color:var(--orange);font-weight:700">Se tavlorna i min butik</a></p>';
   return '<div class="card" style="margin-top:18px;background:var(--cream);text-align:center">' +
     '<p class="qtitle" style="font-size:1.3rem">Ta med minnet hem</p>' +
     '<p style="margin:8px 0 14px">Retrotavlor i samma stil som quizet, perfekta som present eller till väggen.</p>' +
-    '<a class="btn solid" href="' + ETSY_URL + '" target="_blank" rel="noopener" style="display:block">Till retrobutiken på Etsy</a></div>';
+    '<a class="btn solid" href="' + ETSY_URL + '" target="_blank" rel="noopener" style="display:block">Till retrobutiken</a></div>';
 }
 $("etsyfoot").innerHTML = etsyPromo(false);
 </script>
