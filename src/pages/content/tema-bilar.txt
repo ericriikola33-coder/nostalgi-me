@@ -1,31 +1,55 @@
 path: artiklar/bilar-och-mopeder.html
 group: tema
 title: Bilar och mopeder vi minns: puckelvolvo, Amazon och Puch Dakota
-desc: Från puckelvolvon och Saab 96 till Volvo 240 och mopeder som Puch Dakota och Crescent. Fordonen som präglade svenska vägar.
+desc: Från puckelvolvon och Saab 96 till Volvo 240, raggare, EPA-traktorer och mopeder som Puch Dakota och Crescent. Fordonen som präglade svenska vägar.
 h1: Bilar och mopeder vi minns
-lead: Bilen gav familjen frihet och mopeden gav tonåringen sin första egna frihet. Här är fordonen som många svenskar minns med värme.
+lead: Bilen gav familjen frihet och mopeden gav tonåringen sin första egna frihet. Här är fordonen som många svenskar minns med värme, och historierna bakom dem.
 
 ## Puckelvolvon och Saab 92
-Efter andra världskriget kom Volvo PV, som på grund av sin rundade form kallades puckelvolvo. Den blev en folkbil för de familjer som för första gången hade råd med en egen bil. Saab, som annars byggde flygplan, lanserade sin första bil Saab 92, och den aerodynamiska formen avslöjade varifrån ingenjörerna kom.
+Efter andra världskriget kom Volvo PV, som på grund av sin rundade form kallades puckelvolvo. Den tillverkades i flera versioner från mitten av 1940-talet till mitten av 1960-talet och blev en folkbil för de familjer som för första gången hade råd med en egen bil. Puckelvolvon var stark och enkel att laga, och många finns fortfarande kvar hos entusiaster.
+
+Saab, som annars byggde flygplan, lanserade sin första bil Saab 92 i slutet av 1940-talet. Den aerodynamiska formen avslöjade varifrån ingenjörerna kom, och bilen var tidigt ute med framhjulsdrift. Saab blev ett eget varumärke med trogna fans som höll fast vid märket i flera generationer.
 
 ## Amazon, Bubblan och Saab 96
-Volvo Amazon tillverkades från mitten av 1950-talet till 1970 och är fortfarande en favorit bland veteranbilsentusiaster. Volkswagen Typ 1, Bubblan, var en vanlig syn på svenska vägar. Saab 96 blev känd för sina rallyframgångar, inte minst genom Erik "på taket" Carlsson.
+Volvo Amazon tillverkades från 1956 till 1970 och är fortfarande en favorit bland veteranbilsentusiaster. Många tycker att den är en av de vackraste bilar som byggts i Sverige, och den var tidig med säkerhetsdetaljer som trepunktsbältet, en svensk uppfinning från Volvo.
+
+Volkswagen Typ 1, Bubblan, var en vanlig syn på svenska vägar. Den var billig, pålitlig och lätt att känna igen på ljudet från den luftkylda motorn. Saab 96 blev känd för sina rallyframgångar, inte minst genom Erik "på taket" Carlsson, som fick sitt smeknamn för att han ibland välte men ändå tog sig i mål.
 
 ## Raggare och amerikanare
-Från slutet av 1950-talet samlades raggare i stora amerikanska bilar, ofta Cadillac, Chevrolet och Ford, för att cruisa på stadens gator med rock'n'roll på högsta volym. Traditionen lever kvar, till exempel under Power Big Meet och på lördagskvällar i många småstäder.
+Från slutet av 1950-talet samlades raggare i stora amerikanska bilar, ofta Cadillac, Chevrolet, Ford och Plymouth, för att cruisa på stadens gator med rock'n'roll på högsta volym. För många vuxna var raggarna ett skrämmande ungdomsfenomen, men för ungdomarna själva handlade det om frihet, gemenskap och kärleken till bilar.
+
+Traditionen lever kvar. Power Big Meet samlar tusentals amerikanska bilar varje sommar, och på lördagskvällar i många småstäder rullar välputsade bilar fortfarande runt torget.
 
 ## Volvo 240, Sveriges folkbil
-Volvo 240 tillverkades från 1974 till början av 1990-talet. Kombimodellen, gärna med en takbox och en hund i bagageutrymmet, blev en symbol för den svenska familjen. Senare kom Volvo 740 och 940, medan Saab 900 hade sina trogna fans.
+Volvo 240 tillverkades från 1974 till 1993 och blev en av de mest typiska svenska bilarna någonsin. Kombimodellen, gärna med en takbox och en hund i bagageutrymmet, blev en symbol för den svenska familjen. Den var känd för att vara säker, rymlig och nästan omöjlig att slita ut, och många 240:or har gått långt över 50 000 mil.
 
-Under 1980- och 90-talen blev japanska bilar som Toyota Corolla och Mazda allt vanligare, eftersom de var pålitliga och prisvärda.
+Senare kom Volvo 740 och 940 med kantig form, medan Saab 900 hade sina trogna fans, inte minst i cabrioletversionen. Under 1980- och 90-talen blev japanska bilar som Toyota Corolla, Nissan och Mazda allt vanligare, eftersom de var pålitliga och prisvärda.
 
 ## Mopeden, tonåringens frihet
-Från 1950-talet blev mopeden populär, och för många tonåringar var den första mopeden ett minne för livet. Svenska märken som Crescent, Monark och Husqvarna konkurrerade med utländska som Puch, Zündapp och Kreidler. Puch Dakota och Puch Maxi är namn som får många att minnas sommarkvällar på landsvägen.
+Från 1950-talet blev mopeden populär, och för många tonåringar var den första mopeden ett minne för livet. Svenska märken som Crescent, Monark och Husqvarna konkurrerade med utländska som Puch, Zündapp och Kreidler. Puch Dakota, Puch Maxi och Crescent Compact är namn som får många att minnas sommarkvällar på landsvägen.
 
-Att trimma mopeden för att den skulle gå lite fortare var vanligt, även om det inte var tillåtet.
+Mopeden gav friheten att ta sig till dansbanan, badplatsen eller kompisarna i grannbyn utan att be föräldrarna om skjuts. Många minns doften av tvåtaktsolja, att trampa igång motorn och att sitta på pakethållaren bakom en kompis.
+
+Att trimma mopeden för att den skulle gå lite fortare var vanligt, även om det inte var tillåtet. Att byta förgasare, cylinder eller avgasrör var en vetenskap i sig, och polisens kontroller var ett ständigt samtalsämne.
 
 ## EPA-traktorn
-På landsbygden byggde ungdomar om gamla bilar till EPA-traktorer, eller A-traktorer som de senare kallades. De fick köras av den som var för ung för vanligt körkort och var ett sätt att ta sig till dansen och kompisarna.
+På landsbygden byggde ungdomar om gamla bilar till EPA-traktorer, eller A-traktorer som de senare kallades. Bilen kapades, fick en flakdel och en växellåda som begränsade farten, och kunde sedan köras av den som var för ung för vanligt körkort. Den blev ett sätt att ta sig till dansen och kompisarna, och för många är EPA-traktorn ett lika starkt minne som den första bilen.
+
+## Bilresan med familjen
+Semesterresan med bil var ett äventyr. Bagaget packades på takräcket, matsäcken med smörgåsar och termos stod i baksätet och barnen frågade "är vi framme snart?" redan efter en halvtimme. Man stannade vid vägkrogar och rastplatser, köpte korv med bröd och letade efter bilmärken från andra länder.
+
+Kartboken låg i handskfacket, och det var passageraren som fick navigera. Många familjegräl handlade om en missad avfart, och det var först med gps:en på 2000-talet som kartboken försvann.
 
 ## Säkerhet förr och nu
-Länge var det inte självklart att använda bilbälte. Kravet på att använda bälte i framsätet kom i mitten av 1970-talet, och i baksätet först på 1980-talet. Många minns bilresor där barnen låg utsträckta på hatthyllan eller i bagageutrymmet.
+Länge var det inte självklart att använda bilbälte. Kravet på att använda bälte i framsätet kom i mitten av 1970-talet, och i baksätet först på 1980-talet. Många minns bilresor där barnen låg utsträckta på hatthyllan eller i bagageutrymmet. Bakåtvända barnstolar, som i dag är självklara, utvecklades i Sverige och blev vanliga under 1980- och 90-talen.
+
+Rökning i bilen, inga krockkuddar och dubbdäck som byttes på hösten och våren var en del av bilåret. I dag är bilarna både säkrare och tystare, och elbilen har börjat ta över.
+
+## Bilarna vi minns
+- Volvo PV, Amazon, 240 och 740
+- Saab 96, 99 och 900
+- Volkswagen Bubbla och Golf
+- Opel Kadett och Ford Escort
+- Mopederna Puch Dakota, Crescent och Zündapp
+
+Vill du veta vad bensinen kostade året du föddes? Skriv in ditt födelseår på startsidan och se priser och händelser från just det året.

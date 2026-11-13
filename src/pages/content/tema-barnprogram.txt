@@ -1,30 +1,56 @@
 path: artiklar/barnprogram.html
 group: tema
 title: Barnprogram genom tiderna: från Saltkråkan till Bolibompa
-desc: Minns du Vi på Saltkråkan, Pippi, Fem myror är fler än fyra elefanter och Björnes magasin? En resa genom svenska barnprogram.
+desc: Minns du Vi på Saltkråkan, Pippi, Fem myror är fler än fyra elefanter, Trazan och Banarne och Björnes magasin? En resa genom svenska barnprogram och julkalendrar.
 h1: Barnprogram genom tiderna
-lead: Få saker väcker så många minnen som barnprogrammen. Här är några av de program och figurer som generationer av svenska barn har vuxit upp med.
+lead: Få saker väcker så många minnen som barnprogrammen. Här är några av de program och figurer som generationer av svenska barn har vuxit upp med, från de första svartvita sändningarna till dagens Bolibompa.
+
+## När barn-tv var en händelse
+När svensk tv började sända på 1950-talet fanns det bara en kanal och få sändningstimmar. Barnprogrammen var korta och sändes ofta tidigt på kvällen, och för många barn var det en högtidsstund att få sitta framför apparaten. Eftersom alla barn i hela landet såg samma program samtidigt blev figurerna gemensamma för en hel generation, och på skolgården dagen efter pratade alla om samma sak.
+
+Det var också en tid då programmen ofta var ganska lugna. Dockteater, berättare som läste sagor och enkla sånger var vanligt, och en del program sändes direkt från studion.
 
 ## Astrid Lindgren i tv-rutan
-1960-talet bjöd på Vi på Saltkråkan, där Tjorven, Båtsman och Melker Melkersson gjorde skärgården till en drömvärld för barn i hela landet. Några år senare, 1969, kom tv-serien om Pippi Långstrump med Inger Nilsson i huvudrollen, och hennes skratt och styrka har sedan dess följt barn i många länder.
+1964 kom Vi på Saltkråkan, där Tjorven, Båtsman, Pelle och Melker Melkersson gjorde skärgården till en drömvärld för barn i hela landet. Serien spelades in i Stockholms skärgård, och många familjer har sedan dess drömt om sommarlov på en ö med brygga och snickarbod.
 
-I början av 1970-talet kom filmerna om Emil i Lönneberga, med hyss i snickerboa, soppskålen på huvudet och lilla Ida i flaggstången. De visas fortfarande ofta i tv, särskilt kring jul och sommarlov.
+1969 kom tv-serien om Pippi Långstrump med Inger Nilsson i huvudrollen. Pippis skratt, styrka och respektlöshet mot vuxnas regler gjorde henne älskad av barn i många länder, och serien visas fortfarande regelbundet.
+
+I början av 1970-talet kom filmerna om Emil i Lönneberga, med hyss i snickerboa, soppskålen på huvudet och lilla Ida i flaggstången. De visas ofta i tv, särskilt kring jul och sommarlov, och repliker som "Emil, din lymmel" har blivit en del av språket.
 
 ## Bokstäver, siffror och myror
-Fem myror är fler än fyra elefanter sändes i mitten av 1970-talet och lärde barn bokstäver och siffror med sång och lek. Magnus Härenstam, Brasse Brännström och Eva Remaeus blev älskade figurer, och många kan fortfarande sjunga sångerna om alfabetet.
+Fem myror är fler än fyra elefanter sändes i mitten av 1970-talet och lärde barn bokstäver och siffror med sång, lek och absurd humor. Magnus Härenstam, Brasse Brännström och Eva Remaeus blev älskade figurer, och många kan fortfarande sjunga sångerna om alfabetet. Programmet var ett tidigt exempel på att lärande kunde vara roligt, och det har repriserats många gånger.
+
+Under samma period visades Trazan och Banarne, där Tomas Bolme och Bert-Åke Varg som de två djungelfigurerna busade och sjöng. Deras sånger och upptåg följde med långt in på 1980-talet.
 
 ## Bamse, Teskedsgumman och tecknade favoriter
-Bamse, världens starkaste björn, skapades av Rune Andréasson och fanns i tv innan tidningen kom. Hans dunderhonung och budskapet om att den som är stark också måste vara snäll har följt flera generationer.
+Bamse, världens starkaste björn, skapades av Rune Andréasson och fanns i tv i tecknade filmer innan den egna tidningen kom 1973. Hans dunderhonung och budskapet om att den som är stark också måste vara snäll har följt flera generationer, och Lille Skutt, Skalman och Vargen är figurer som nästan alla svenskar känner igen.
 
-Under 1980-talet visades tecknade serier som Teskedsgumman, och lördagsmorgnarna kunde bjuda på både svenska och utländska tecknade favoriter.
+Under 1980-talet visades tecknade serier som Teskedsgumman, och lördagsmorgnarna kunde bjuda på både svenska och utländska tecknade favoriter. Mupparna och Fragglarna kom från USA, och tecknade filmer från Japan och Tjeckoslovakien, som Mullvaden, fanns också med i tablån.
 
 ## Bolibompa och Björnes magasin
-I slutet av 1980-talet startade Bolibompa, som i dag är ett samlingsnamn för SVT:s program för de minsta. Björnes magasin, med björnen Björne, samlade barnen framför tv:n under många år och blandade sagor, sånger och fakta.
+1987 startade Bolibompa, som i dag är ett samlingsnamn för SVT:s program för de minsta. Senare fick programmet sin gröna drake, som blivit en symbol för barn-tv i Sverige. Björnes magasin, med björnen Björne, samlade barnen framför tv:n under många år och blandade sagor, sånger och fakta på ett lugnt och tryggt sätt.
+
+Lilla Sportspegeln lät barn från hela landet visa upp sina idrotter och klubbar, och många drömde om att få vara med i rutan med sitt eget lag.
+
+## Bert och tonårstiden
+1994 kom tv-serien om Bert, byggd på Anders Jacobssons och Sören Olssons dagböcker om en tonåring i den påhittade staden Öreskoga. Serien fångade det pinsamma, roliga och nervösa i att vara tretton år, och för många som var unga på 1990-talet är Bert lika självklar som Pippi var för deras föräldrar.
 
 ## Julkalendern och Kalle Anka
-Den 1 december varje år startar SVT:s julkalender, och för många barn är luckan i pappkalendern en självklar del av advent. På julafton klockan 15 visas Kalle Anka och hans vänner önskar god jul, en tradition sedan början av 1960-talet som fortfarande samlar miljontals tittare.
+Den 1 december varje år startar SVT:s julkalender, och för många barn är luckan i pappkalendern en självklar del av advent. Under åren har julkalendrar som Trolltider, Sunes jul, Mysteriet på Greveholm och Jul i Skomakargatan blivit klassiker som många minns med värme, och diskussionen om årets kalender är bra eller dålig är nästan en tradition i sig.
+
+På julafton klockan 15 visas Kalle Anka och hans vänner önskar god jul, en tradition sedan början av 1960-talet som fortfarande samlar miljontals tittare. Samma klipp visas år efter år, och just därför är programmet så omtyckt. Många familjer planerar hela julafton efter klockan tre.
+
+## Sommarlov på tv
+Under sommarlovet sände SVT program på morgnarna med tecknat, lekar och tävlingar. Många minns hur det kändes att sitta i pyjamas och titta på sommarlovsmorgnarna, innan dagen fortsatte med bad, cykel och glass. Programledarna blev somrarnas kändisar för barnen.
+
+## Därför minns vi barnprogrammen
+Barnprogrammen har betytt så mycket eftersom de var gemensamma. När det bara fanns en eller två kanaler såg alla barn samma sak, och sångerna och replikerna blev en del av vardagen. I dag finns nästan obegränsat med barnprogram på nätet, men de gamla favoriterna lever vidare i repriser, på SVT Play och när föräldrar och morföräldrar visar dem för sina barn.
 
 ## Fler minnen
-- Bert, den tv-serie från 1990-talet som byggde på dagböckerna om en tonåring i Öreskoga
-- Lilla Sportspegeln, där barn fick visa upp sina idrotter och klubbar
-- Sommarlovsmorgnarna med tecknat, lekar och tävlingar på tv
+- Tecknade serier från hela världen i lördagstablån
+- Sagostunden där någon läste högt framför kameran
+- Barnens önskeprogram i radion
+- Pippi-filmerna på sommarloven
+- Sånger från Fem myror som fortfarande sitter i huvudet
+
+Vill du veta vilka program som var populära året du föddes? Skriv in ditt födelseår på startsidan och se vad som hände just det året.

@@ -1,30 +1,51 @@
 path: artiklar/tv-och-radio.html
 group: tema
 title: Tv och radio förr: testbild, Svensktoppen och Hylands hörna
-desc: När det bara fanns en tv-kanal, när färg-tv kom och vilka program som samlade hela Sverige. Tv och radio genom tiderna.
+desc: När det bara fanns en tv-kanal, när färg-tv kom och vilka program som samlade hela Sverige. Testbilden, Hylands hörna, Svensktoppen, Bingolotto och Robinson.
 h1: Tv och radio förr
 lead: Det fanns en tid då hela landet såg samma program samma kväll och pratade om det på jobbet dagen efter. Här är minnen från tv- och radiohistorien.
 
-## En kanal och en testbild
-När svensk tv startade på 1950-talet fanns bara en kanal och sändningar några timmar på kvällen. Under resten av dagen visades testbilden. Den andra kanalen, TV2, startade i slutet av 1969, och därmed fick tittarna för första gången välja.
+## Radion som samlingspunkt
+Innan tv:n kom var radion familjens fönster mot världen. Radioapparaten stod på en hedersplats i vardagsrummet, och familjen samlades för att lyssna på nyheter, teater, musik och sport. Radioföljetonger kunde få hela landet att längta efter nästa avsnitt, och sportreferat från stora mästerskap följdes av människor i hela Sverige.
 
-Färg-tv kom till Sverige 1970. Många minns när familjen köpte sin första färg-tv, eller när man gick till grannen för att se ett program i färg.
+Program som Karusellen och Frukostklubben var stora under 1950-talet, och programledare som Lennart Hyland blev kändisar redan innan tv:n slog igenom.
+
+## En kanal och en testbild
+När svensk tv startade på 1950-talet fanns bara en kanal och sändningar några timmar på kvällen. Under resten av dagen visades testbilden, och för många är den gråa bilden med cirklar och linjer ett starkt minne. Man kunde slå på tv:n och se testbilden medan man väntade på att kvällens program skulle börja.
+
+Den andra kanalen, TV2, startade i december 1969, och därmed fick tittarna för första gången välja. Färg-tv kom till Sverige 1970. Många minns när familjen köpte sin första färg-tv, eller när man gick till grannen för att se ett program i färg.
 
 ## Program som samlade landet
-Lennart Hyland var en av tv:ns största profiler, och Hylands hörna lockade enorma publiker. I frågesporten Kvitt eller dubbelt kunde en deltagare vinna det som då var stora pengar, och hela Sverige satt och höll andan.
+Lennart Hyland var en av tv:ns största profiler, och Hylands hörna lockade enorma publiker. I frågesporten Kvitt eller dubbelt kunde en deltagare vinna det som då var stora pengar, och hela Sverige satt och höll andan när de svåraste frågorna ställdes.
 
-Melodifestivalen har funnits sedan 1959 och är fortfarande en av årets största tv-händelser. På spåret, där lag reser med tåg i tv-rutan och gissar resmålet, har sänts sedan 1980-talet.
+Melodifestivalen har funnits sedan 1959 och är fortfarande en av årets största tv-händelser. På spåret, där lag reser med tåg i tv-rutan och gissar resmålet, har sänts sedan 1987. Program som Nygammalt, Gäst hos Hagge och Här är ditt liv var andra stora publikmagneter.
 
 ## Svensktoppen och Tio i topp
-I radion startade Svensktoppen 1962 och blev en plats för dansband, schlager och svensk pop. Tio i topp var under 1960-talet och början av 70-talet det program där ungdomarna fick höra de nya hitsen och rösta fram sina favoriter.
+I radion startade Svensktoppen 1962 och blev en plats för dansband, schlager och svensk pop. Listan har sänts i över 60 år och är en av världens äldsta topplistor i radio. Tio i topp var under 1960-talet och början av 70-talet det program där ungdomarna fick höra de nya hitsen och rösta fram sina favoriter.
+
+Senare kom Poporama, Topplistan och Tracks, och P3 blev ungdomarnas kanal. Önskeprogrammen, där lyssnare fick önska låtar och skicka hälsningar till släkt och vänner, var populära i lokalradion.
+
+## Sport i rutan
+Sportspegeln på söndagskvällarna var en självklar del av helgen. Stora mästerskap som fotbolls-VM, OS och skid-VM samlade hela landet, och för många är bilder som Ingemar Stenmarks åk, Björn Borgs Wimbledonfinaler och Peter Forsbergs straff 1994 starka tv-minnen. Vasaloppet, som sänts i flera timmar varje mars, har följts av generationer av svenskar.
+
+## Reklam-tv och fler kanaler
+Länge fanns ingen reklam i svensk tv. När TV3 började sända via satellit nyårsafton 1987 fick svenska tittare reklam-tv för första gången, och några år senare startade Kanal 5. TV4 började sända i marknätet 1992 och blev snabbt en stor kanal med nyheter, underhållning och serier.
+
+Med fler kanaler kom nya programformer, som såpoperor, frågesporter med stora vinster och talkshower.
 
 ## Lördagskvällar och dokusåpor
-Under 1990-talet samlades miljontals svenskar framför Bingolotto på lördagskvällarna, med lotter, sånger och Leif "Loket" Olsson som programledare. 1997 kom Expedition Robinson, och snart blev dokusåpor en egen genre i svensk tv.
+Under 1990-talet samlades miljontals svenskar framför Bingolotto på lördagskvällarna, med lotter, sånger och Leif "Loket" Olsson som programledare. 1997 kom Expedition Robinson, och snart blev dokusåpor en egen genre i svensk tv. Big Brother, Farmen och Paradise Hotel följde, och vem som åkte ut var ett samtalsämne i hela landet.
 
 ## Prylarna runt tv:n
-Text-tv gav nyheter och sportresultat på ett nytt sätt. Videobandspelaren gjorde det möjligt att spela in program, och fjärrkontrollen gjorde slut på att någon behövde resa sig för att byta kanal.
+Text-tv gav nyheter och sportresultat på ett nytt sätt, och sidan 377 med sportresultat var välkänd för många. Videobandspelaren gjorde det möjligt att spela in program, och den blinkande klockan som visade 00:00 blev ett skämt i många hem. Fjärrkontrollen gjorde slut på att någon behövde resa sig för att byta kanal.
+
+Tv-tablån i dagstidningen planerade kvällen, och många ringade in de program de ville se.
 
 ## Mer att minnas
+- Testbilden innan kvällens sändning började
 - Sportspegeln på söndagskvällar
-- Önskeprogram i radion, där lyssnare fick önska låtar och skicka hälsningar
+- Önskeprogram i radion med hälsningar till släkten
+- Bingolotto och kaffe på lördagskvällen
 - Julafton med Kalle Anka klockan 15
+
+Vill du veta vilka program som gick året du föddes? Skriv in ditt födelseår på startsidan och se vad som hände just det året.

@@ -1,27 +1,56 @@
 path: artiklar/1960-talet.html
 title: 1960-talet: rekordår, Beatles och högertrafik
-desc: Så var 1960-talet i Sverige: miljonprogrammet, popmusik, Dagen H, månlandningen och ungdomsrevolten.
+desc: Så var 1960-talet i Sverige: miljonprogrammet, popmusik och folkparker, Dagen H, Pippi och Saltkråkan, månlandningen och ungdomsrevolten 1968.
 h1: 1960-talet
 lead: Ett årtionde som började i välstånd och slutade i uppbrott. Ekonomin växte, popmusiken tog över radion och unga människor ifrågasatte allt fler gamla sanningar.
 
 ## Rekordåren och miljonprogrammet
-Sverige hade ont om bostäder, och riksdagen beslutade att en miljon nya bostäder skulle byggas på tio år. Miljonprogrammet gav många familjer moderna lägenheter med badrum, balkong och plats för barnen, och nya stadsdelar växte fram runt om i landet.
+Sverige hade ont om bostäder. Många familjer bodde trångt, i gamla hus utan badrum eller hos släktingar. 1965 beslutade riksdagen att en miljon nya bostäder skulle byggas på tio år, och miljonprogrammet satte igång. Det gav många familjer moderna lägenheter med badrum, balkong, tvättstuga och plats för barnen, och nya stadsdelar växte fram runt om i landet.
 
-Samtidigt flyttade människor från landsbygden till städerna för att arbeta i industrin. Många kom också från andra länder, inte minst från Finland, Jugoslavien och Italien, för att arbeta i svenska fabriker.
+I dag diskuteras miljonprogrammet ofta, men för många som flyttade in var det en enorm förbättring. Den som vuxit upp i ett rum och kök med utedass upplevde det som rena lyxen att få varmvatten, kylskåp och ett eget rum till barnen.
+
+Samtidigt flyttade människor från landsbygden till städerna för att arbeta i industrin. Många kom också från andra länder, inte minst från Finland, Jugoslavien, Grekland och Italien, för att arbeta på Volvo, SKF, i varven och i textilfabrikerna. De bidrog till att bygga det moderna Sverige och satte sin prägel på många orter.
+
+## Ett nytt vardagsliv
+Den lagstadgade semestern förlängdes 1963 till fyra veckor, och charterresan började bli något som vanliga familjer kunde unna sig. Mallorca och Kanarieöarna blev plötsligt möjliga resmål, och berättelserna om solen, stränderna och det billiga vinet spreds i fikarummen.
+
+Kvinnor gick i allt högre grad ut i arbetslivet, och efterfrågan på barnomsorg växte. Daghemmen byggdes ut, och diskussionen om jämställdhet tog fart. I skolan infördes den nioåriga grundskolan under årtiondet, och den gamla uppdelningen mellan folkskola och realskola försvann gradvis.
+
+I butikerna dök nya varor upp. Snabbmat, färdigrätter och frysvaror blev vanligare, och snabbköpen växte till stora varuhus med parkering utanför.
 
 ## Popmusiken tar över
-The Beatles, The Rolling Stones och många andra brittiska band förändrade musiken. I Sverige spelade popgrupper på folkparkerna och unga stod i kö för att få höra de senaste skivorna. Transistorradion gjorde att musiken kunde följa med överallt, från stranden till sovrummet.
+The Beatles, The Rolling Stones och många andra brittiska band förändrade musiken. Beatles turnerade i Sverige hösten 1963, precis när beatlemania bröt ut på allvar, och ungdomar köade i timmar för att få se dem.
+
+I Sverige startade hundratals popband i källare och garage. Hep Stars med Benny Andersson, Tages från Göteborg och Ola & Janglers fick stora hits, och Sven-Ingvars blandade pop och dansband på ett sätt som tilltalade både unga och äldre. Popgrupperna spelade på folkparkerna under somrarna, och unga stod i kö för att få höra de senaste skivorna i radions Tio i topp.
+
+Transistorradion gjorde att musiken kunde följa med överallt, från stranden till sovrummet. Singelskivan på 45 varv blev ungdomens valuta, och skivaffären en självklar mötesplats.
+
+## Barnens 1960-tal
+För barnen var 1960-talet årtiondet då Astrid Lindgrens berättelser kom till tv-rutan. Vi på Saltkråkan sändes 1964, och Tjorven, Båtsman, Stina och Melker Melkersson blev figurer som hela landet kände. 1969 kom tv-serien om Pippi Långstrump med Inger Nilsson i huvudrollen.
+
+Kalle Anka på julafton blev en tradition redan i början av årtiondet, och glansbilder, trolldockor och Lego, som patenterades 1958, fanns i många barnrum.
 
 ## Dagen H
-En söndagsmorgon i september 1967 bytte Sverige från vänstertrafik till högertrafik. Förberedelserna hade pågått i flera år, med kampanjer, sånger och nya skyltar längs vägarna. Omställningen gick förvånansvärt smidigt, och dagen har blivit en av de mest kända i modern svensk historia.
+En söndagsmorgon, den 3 september 1967, bytte Sverige från vänstertrafik till högertrafik. Förberedelserna hade pågått i flera år, med informationskampanjer, en egen schlager och nya skyltar längs vägarna. Alla vägskyltar skulle vändas och bussar byggas om så att dörrarna hamnade på rätt sida.
+
+Natten före omställningen var det i princip förbjudet att köra privatbil. Klockan fem på morgonen bytte trafiken sida, och omställningen gick förvånansvärt smidigt. Under den första tiden minskade olyckorna till och med, eftersom alla körde extra försiktigt. Dagen H har blivit en av de mest kända dagarna i modern svensk historia.
 
 ## Tv och underhållning
-Tv:n fanns nu i de flesta hem, och vissa program samlade nästan hela landet framför rutan. Mot slutet av årtiondet startade en andra kanal, och därmed kunde tittarna för första gången välja mellan två program samma kväll.
+Tv:n fanns nu i de flesta hem, och vissa program samlade nästan hela landet framför rutan. Lennart Hyland var den stora profilen, och frågesporten Kvitt eller dubbelt fick tittarna att hålla andan. I december 1969 startade TV2, och därmed kunde tittarna för första gången välja mellan två program samma kväll.
 
 ## Rymden och världen
-Kapplöpningen till rymden mellan USA och Sovjetunionen var ett ständigt samtalsämne. Sommaren 1969 landade Apollo 11 på månen, och miljontals människor såg de första stegen i direktsändning.
+Kapplöpningen till rymden mellan USA och Sovjetunionen var ett ständigt samtalsämne. 1961 blev Jurij Gagarin den första människan i rymden, och sommaren 1969 landade Apollo 11 på månen. I Sverige satt många uppe mitt i natten för att se de första stegen på månens yta i direktsändning.
 
-Det var också ett årtionde av protester. Vietnamkriget, medborgarrättsrörelsen i USA och studentupproren 1968 påverkade unga även i Sverige, där studenter ockuperade Kårhuset i Stockholm.
+Det var också ett årtionde av protester. Vietnamkriget, medborgarrättsrörelsen i USA och studentupproren 1968 påverkade unga även i Sverige. I maj 1968 ockuperade studenter Kårhuset i Stockholm under flera dagar för att diskutera samhället och universitetets framtid. Rösträttsåldern, miljön och kvinnornas rättigheter blev frågor som engagerade allt fler.
 
 ## Mode och stil
-Kjolarna blev kortare, färgerna starkare och mönstren djärvare. Mot slutet av årtiondet kom hippiestilen med långt hår, blommor och utsvängda byxor.
+Kjolarna blev kortare, färgerna starkare och mönstren djärvare. Minikjolen kom från London och chockade många föräldrar. Unga män lät håret växa, först i Beatles-frisyr och sedan ännu längre. Mot slutet av årtiondet kom hippiestilen med långt hår, blommor, batik och utsvängda byxor.
+
+## Vad var vanligt på 1960-talet?
+- Transistorradio och singelskivor på 45 varv
+- Volvo Amazon och Saab 96 på parkeringen
+- Teakmöbler och bokhyllor i vardagsrummet
+- Folkparksdans på lördagskvällarna under sommaren
+- Pippi, Saltkråkan och Kalle Anka i tv-rutan
+
+Vill du veta mer om ett särskilt år? Skriv in ett årtal i sökrutan på startsidan och se musik, händelser och priser från just det året.

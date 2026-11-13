@@ -1,0 +1,58 @@
+path: artiklar/skolan-forr.html
+group: tema
+title: Skolan förr: folkskola, stencilerade blad och skolfoto
+desc: Så var skolan förr i Sverige: folkskola och realskola, studentexamen, betyg från 1 till 5, stencilerade blad, overheadapparater, skolmat, gympa och skolavslutning.
+h1: Skolan förr
+lead: Alla har gått i skolan, och nästan alla har minnen av lärare, klasskamrater, skolmat och gymnastiksalar. Här är en resa genom svensk skola från folkskolans tid till datorer i klassrummet.
+
+## Folkskolan och realskolan
+Fram till 1960-talet gick de flesta svenska barn i folkskolan. Den som hade goda betyg och föräldrar som hade råd kunde gå vidare till realskolan och sedan till gymnasiet och studentexamen. Många barn, särskilt på landsbygden, slutade skolan efter sex eller sju år och började arbeta eller gick i lära.
+
+1962 beslutade riksdagen om den nioåriga grundskolan, som skulle vara gemensam för alla barn. Under de följande åren infördes den i hela landet, och de gamla skolformerna försvann gradvis. Idén var att alla barn skulle få samma möjligheter, oavsett var de bodde eller vad föräldrarna arbetade med.
+
+## Studentexamen
+Studentexamen var förr en stor händelse. Den som tog studenten bar vit mössa, och examen bestod av skriftliga prov och en muntlig examen inför censorer, särskilda lärare som skickades ut för att bedöma eleverna. Den sista studentexamen i den gamla formen hölls 1968. Studentmössan och utspringet, när de nyblivna studenterna springer ut från skolan till väntande familjer med plakat och blommor, har dock levt kvar.
+
+Studentflak, champagne och sånger som Sjungom studentens lyckliga dag hör fortfarande till de ljusa försommarveckorna.
+
+## Betygen
+Betygssystemen har ändrats flera gånger. Under lång tid användes bokstavsbetyg med beteckningar som A, a, AB och B. Från 1960-talet infördes de relativa betygen från 1 till 5, där betygen skulle fördelas efter en normalfördelning i hela landet. Det innebar att bara ett fåtal elever kunde få en femma, och många minns diskussionerna om hur rättvist det var.
+
+I mitten av 1990-talet kom de målrelaterade betygen IG, G, VG och MVG, och 2011 infördes betygsskalan A till F som används i dag. Många föräldrar och barn har alltså vuxit upp med helt olika betygssystem.
+
+## Klassrummet
+I de äldre klassrummen stod bänkar i rader, ofta med lock som kunde fällas upp och ett hål för bläckhornet. Eleverna skrev med stålpenna och bläck, och det gällde att inte kladda. Senare kom kulspetspennan och blyertspennan med sudd.
+
+På väggen hängde stora kartor och planscher över djur, växter och människokroppen, som läraren rullade ned vid lektionen. Kateder, svarta tavlan och kritor var självklara, och många minns ljudet när kritan gnisslade.
+
+Stencilerade blad, med den speciella doften från spritduplikatorn, delades ut varje dag. Overheadapparaten med OH-bilder, rullbandspelaren och senare videon på rullbord var tekniken i klassrummet. När skol-tv eller skolradio skulle visas var det en högtidsstund.
+
+## Skolmaten
+Gratis skollunch är en svensk tradition som många utlänningar förvånas över. Klassikerna är många: fiskpinnar med potatismos, köttbullar, makaroner och köttfärssås, korv stroganoff, pannkakor, blodpudding med lingon och ärtsoppa på torsdagar. Knäckebröd med smör och mjölk fanns på varje bord.
+
+Skolmatsalens regler, att man skulle smaka på allt och att lärarna åt vid ett eget bord, är minnen för många.
+
+## Gympa och rast
+I gymnastiksalen fanns ribbstolar, bockar, plintar, rep och bommar, och många minns hur nervöst det var att hoppa bock eller klättra i repet. Redskapsgymnastik, brännboll, dodgeball och friidrottsdagar hörde till året. Skolans idrottsdag, med orientering eller skidåkning, var för vissa en höjdpunkt och för andra en mardröm.
+
+På rasterna lekte man kull, hoppade hage och hopprep, spelade fotboll eller brännboll och bytte glansbilder, bokmärken, Pogs eller samlarkort. Skolgårdens regler och rasternas dramatik är minnen som följer med hela livet.
+
+## Skolfoto och skolresor
+Varje höst kom skolfotografen. Kläderna valdes noga, håret kammades och många minns frisyren från skolfotot med både stolthet och skam. Klassfotot, där alla stod i rader med läraren vid sidan, sparades i album och har blivit roliga minnen att visa barn och barnbarn.
+
+Skolresan på våren, ofta till Stockholm, Gotland eller en vandrarhemsvistelse, var en stor händelse för många klasser. Insamlingar med lotterier och kakförsäljning gjorde resan möjlig.
+
+## Skolavslutningen
+Skolavslutningen hölls länge i kyrkan, och psalmen Den blomstertid nu kommer sjöngs av generationer av svenska skolbarn. Barnen hade finkläder, blommor till fröken och hoppfulla tankar om sommarlovet. I dag hålls avslutningen ofta i skolan eller utomhus, men sången har levt kvar.
+
+## Skolan i dag
+Sedan 1990-talet har skolan förändrats mycket. Datorer och surfplattor har ersatt många läroböcker, och elever lämnar in uppgifter digitalt. Friskolor och skolval har förändrat hur skolan är organiserad. Men raster, skolmat, lärare man minns och sommarlovets första dag är sig ganska lika.
+
+## Skolminnen
+- Stencilerade blad som luktade sprit
+- Betyg från 1 till 5 eller från IG till MVG
+- Fiskpinnar och potatismos i matsalen
+- Skolfotot med den speciella frisyren
+- Den blomstertid nu kommer på avslutningen
+
+Vill du veta vad som hände det år du började skolan? Skriv in årtalet på startsidan och se musik, händelser och priser från just det året.

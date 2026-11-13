@@ -1,9 +1,9 @@
 path: artiklar/visste-du-att.html
 group: tema
 title: Visste du att? Rolig kuriosa från förr
-desc: Coca-Cola var förbjudet, Fröken Ur hade ett eget nummer och Sverige bytte körfält en söndagsmorgon. Rolig kuriosa från svensk historia.
+desc: Coca-Cola var förbjudet, Fröken Ur hade ett eget nummer och Sverige bytte körfält en söndagsmorgon. 40 roliga fakta från svensk historia att dra på kalaset.
 h1: Visste du att?
-lead: Små fakta från förr som är perfekta att dra på kalaset, vid middagsbordet eller i fikarummet.
+lead: Små fakta från förr som är perfekta att dra på kalaset, vid middagsbordet eller i fikarummet. Hur många av dem kände du till?
 
 ## Vardagen
 - Coca-Cola var inte tillåtet i Sverige förrän 1953.
@@ -11,25 +11,53 @@ lead: Små fakta från förr som är perfekta att dra på kalaset, vid middagsbo
 - Den som ville veta exakt vad klockan var ringde Fröken Ur på 90 510.
 - Mjölken såldes länge i paket formade som pyramider, så kallade tetraedrar.
 - Ikeas första varuhus öppnade i Älmhult 1958.
+- Bokhyllan Billy lanserades 1979 och finns i miljontals hem över hela världen.
+- Julmust säljer så bra i december att den brukar sälja mer än Coca-Cola under julen.
+- Kanelbullens dag firas den 4 oktober.
+- Semlan åts förr bara på fettisdagen.
+- Ahlgrens bilar har funnits sedan 1953 och kallas "Sveriges mest köpta bil".
 
 ## Trafik och resor
-- Sverige bytte från vänstertrafik till högertrafik en söndagsmorgon i september 1967, Dagen H.
+- Sverige bytte från vänstertrafik till högertrafik en söndagsmorgon, den 3 september 1967, Dagen H.
 - Volvo PV kallades puckelvolvo på grund av sin rundade form.
+- Trepunktsbältet uppfanns av Volvo och började användas i slutet av 1950-talet.
 - Bilbälte i framsätet blev obligatoriskt först i mitten av 1970-talet.
 - NMT, ett av världens första mobilnät, startade i Norden 1981.
+- Öresundsbron mellan Malmö och Köpenhamn invigdes år 2000.
+- Den lagstadgade semestern var två veckor 1938 och blev fem veckor 1978.
 
 ## Tv och musik
-- Svensk tv hade bara en kanal fram till slutet av 1969.
+- Svensk tv hade bara en kanal fram till december 1969.
 - Färg-tv kom till Sverige 1970.
 - Melodifestivalen har arrangerats sedan 1959.
 - Kalle Anka har visats på julafton klockan 15 sedan början av 1960-talet.
 - ABBA vann Eurovision 1974 med Waterloo, i Brighton.
+- Svensktoppen startade 1962 och är en av världens äldsta topplistor i radio.
+- Reklam-tv kom till Sverige först när TV3 började sända nyårsafton 1987.
+- Sverige har vunnit Eurovision sju gånger, lika många som Irland.
+- Spotify lanserades i Sverige 2008.
+
+## Idrott
+- Sverige tog silver i fotbolls-VM på hemmaplan 1958, och finalen spelades i Solna.
+- Ingemar "Ingo" Johansson blev världsmästare i tungvikt i boxning 1959.
+- Björn Borg vann Wimbledon fem år i rad, 1976–1980.
+- IFK Göteborg har vunnit UEFA-cupen två gånger, 1982 och 1987.
+- Peter Forsbergs straff i OS-finalen 1994 har varit med på ett svenskt frimärke.
 
 ## Samhälle
 - Sverige blev 1979 det första landet i världen att förbjuda aga av barn.
 - Astrid Lindgrens saga om Pomperipossa handlade om en skatt på över 100 procent och väckte stor debatt 1976.
 - Under kronkrisen 1992 höjde Riksbanken styrräntan tillfälligt till 500 procent.
 - Svenska kyrkan skildes från staten år 2000.
+- Sverige blev medlem i EU den 1 januari 1995.
+- Uttrycket Stockholmssyndromet kommer från Norrmalmstorgsdramat 1973.
+- Föräldraförsäkringen, som även pappor kunde använda, infördes 1974.
+
+## Teknik och prylar
+- Kobran, telefonen med fingerskivan under luren, är i dag en designklassiker på museer.
+- Nokia 3310 var känd för att batteriet kunde räcka i flera dagar.
+- Minecraft och Candy Crush skapades av svenska spelföretag.
+- Swish lanserades i december 2012 och blev snabbt ett vardagsord.
 
 ## Prova själv
-Vill du veta vad som hände året du föddes? Skriv in ditt födelseår och se musik, händelser och priser, eller utmana familjen i quizet.
+Vill du veta vad som hände året du föddes? Skriv in ditt födelseår och se musik, händelser och priser, eller utmana familjen i quizet "Gissa året".

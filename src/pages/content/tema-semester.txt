@@ -1,28 +1,53 @@
 path: artiklar/semester-och-noje.html
 group: tema
 title: Semester och nöjen förr: folkparker, dansband och charterresor
-desc: Från två veckors semester till charter på Mallorca. Folkparkernas dans, dansband, nöjesparker och campingsemestrar genom tiderna.
+desc: Från två veckors semester till charter på Mallorca. Folkparkernas dans, dansband, campingsemestrar, Interrail, Liseberg och Gröna Lund genom tiderna.
 h1: Semester och nöjen förr
-lead: Semestern har vuxit från två veckor till fem, och resorna har gått från cykeltur till charter. Här är minnen från svenskarnas lediga dagar.
+lead: Semestern har vuxit från två veckor till fem, och resorna har gått från cykeltur och tåg till charter och långresor. Här är minnen från svenskarnas lediga dagar.
 
 ## Semestern växer
-Lagen om semester gav svenskarna två veckors ledighet i slutet av 1930-talet. Under de följande decennierna blev den längre, och sedan slutet av 1970-talet har vi rätt till fem veckor. Semestern blev en självklar del av livet, ofta i juli, då många fabriker stängde helt.
+Lagen om semester gav svenskarna två veckors ledighet 1938. Under de följande decennierna blev den längre: tre veckor 1951, fyra veckor 1963 och fem veckor från 1978. Semestern blev en självklar del av livet, ofta i juli, då många fabriker stängde helt. Industrisemestern gjorde att hela orter blev tomma på samma gång, och vägarna fylldes av familjer på väg mot havet, fjällen eller släkten.
+
+För de första generationerna med semester var det ofta nog att vara ledig hemma, cykla till en badplats eller hälsa på släkt på landet. Att resa utomlands var något för de få.
 
 ## Sommarstugan och campingen
-Sommarstugan vid sjön eller havet blev en dröm för många familjer. Den som inte hade en egen stuga åkte på campingsemester med tält eller husvagn, och campingplatser längs kusterna fylldes av familjer med grill, badkläder och kortlek.
+Sommarstugan vid sjön eller havet blev en dröm för många familjer. Den kunde vara en enkel stuga med utedass och brunn, men där fanns plats för bad, fiske, kubb och långa kvällar på trappan. Många stugor byggdes av familjerna själva under helger och semestrar.
+
+Den som inte hade en egen stuga åkte på campingsemester med tält eller husvagn, och campingplatser längs kusterna fylldes av familjer med grill, badkläder och kortlek. Husvagnen med förtält, kaffe på campingköket och diskning i det gemensamma servicehuset är minnen som många delar. Barnen hittade snabbt nya kompisar, och minigolfbanan var ofta campingens centrum.
 
 ## Folkparkerna och dansbanden
-Folkparkerna var sommarens samlingsplats, med dans, artister och lotterier. Där spelade dansband som Sven-Ingvars, Sten & Stanley, Thorleifs och Vikingarna, och många par träffades på dansbanan en lördagskväll.
+Folkparkerna var sommarens samlingsplats, med dans, artister, lotterier och chokladhjul. I nästan varje ort fanns en park eller en dansbana där man träffades på lördagskvällarna. De stora artisterna turnerade mellan parkerna under hela sommaren, och för många artister var folkparksturnén det viktigaste av året.
 
-Dansbandsmusiken har aldrig försvunnit, och för många väcker den både dansminnen och längtan efter ljusa sommarnätter.
+Där spelade dansband som Sven-Ingvars, Sten & Stanley, Thorleifs, Vikingarna, Lasse Stefanz och Arvingarna, och många par träffades på dansbanan en lördagskväll. Bugg och foxtrot dansades till sena natten, och den som inte kunde dansa fick lära sig snabbt.
+
+Dansbandsmusiken har aldrig försvunnit. Dansbandsveckan i Malung samlar tusentals dansare varje sommar, och för många väcker musiken både dansminnen och längtan efter ljusa sommarnätter.
 
 ## Charterresan
-Från 1960-talet blev charterresor till Mallorca, Kanarieöarna och senare Grekland och Thailand tillgängliga för vanliga familjer. Plötsligt kunde man flyga till solen för en vecka, och sangria, pesetas och solbrännor blev en del av semesterminnena.
+Från 1960-talet blev charterresor till Mallorca, Kanarieöarna och senare Grekland, Turkiet och Thailand tillgängliga för vanliga familjer. Plötsligt kunde man flyga till solen för en vecka eller två, och sangria, pesetas, drakmer och solbrännor blev en del av semesterminnena. Reseledarna, välkomstmötet och poolen med plaststolar är en egen kultur.
 
-Unga reste i stället med Interrail genom Europa, med ryggsäck och tågkarta.
+Under 1980- och 90-talen åkte många familjer till Kanarieöarna på sportlovet eller jullovet, och resorna till Thailand blev vanliga på 2000-talet. Att komma hem brun i februari var ett tecken på att man hade varit borta.
+
+## Interrail och tågluffen
+Unga reste i stället med Interrail genom Europa, med ryggsäck, tågkarta och sovsäck. Ett tågkort som gällde i en månad i hela Europa gjorde det möjligt att upptäcka Paris, Rom och de grekiska öarna på en budget. Många sov på nattåg, i parker eller på stationer, och för en hel generation var tågluffen den första stora resan utan föräldrar.
 
 ## Nöjesparker och djurparker
-Gröna Lund i Stockholm har funnits sedan 1800-talet och Liseberg i Göteborg sedan 1923. Kolmårdens djurpark öppnade på 1960-talet, och Astrid Lindgrens Värld i Vimmerby lockar barnfamiljer från hela landet.
+Gröna Lund i Stockholm har funnits sedan 1880-talet och Liseberg i Göteborg sedan 1923. Berg- och dalbanor, karuseller, sockervadd och chokladhjul har lockat generationer av besökare. Liseberg har länge varit en av Sveriges största turistattraktioner, och stora konserter på nöjesparkernas scener är sommarminnen för många.
+
+Kolmårdens djurpark öppnade 1965, och Astrid Lindgrens Värld i Vimmerby lockar barnfamiljer från hela landet. Skara Sommarland, Furuvik och Parken Zoo var andra mål för familjeutflykter.
+
+## Fritid hemma
+Allt var inte resor. Fritidsgårdar, idrottsföreningar, scouter och kyrkans ungdomsgrupper gav barn och unga något att göra efter skolan. På vintern åkte man skridskor på sjön och skidor i närmaste backe, och på sommaren cyklade man till badplatsen med handduken på pakethållaren.
+
+Biografen var länge den stora nöjeslokalen, och på lördagarna kunde barnen se matinéer med tecknat och äventyrsfilmer.
 
 ## Sommarens ljud
-Glassbilens melodi, Sommar i P1 i radion, myggor i tältet och regnet mot husvagnstaket. Det är ljud som många förknippar med de svenska somrarna.
+Glassbilens melodi, Sommar i P1 i radion, myggor i tältet, regnet mot husvagnstaket och dansbandsmusik från en folkpark på avstånd. Det är ljud som många förknippar med de svenska somrarna. Midsommar med sill, jordgubbar och små grodorna runt stången är fortfarande sommarens stora fest.
+
+## Semesterminnen
+- Husvagn och förtält på campingen
+- Folkparkens dansbana en lördagskväll
+- Charter till Mallorca eller Kanarieöarna
+- Interrail med ryggsäck genom Europa
+- Liseberg, Gröna Lund och Kolmården
+
+Vill du veta vad en charterresa eller en glass kostade året du föddes? Skriv in ditt födelseår på startsidan och se priser och händelser från just det året.

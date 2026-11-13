@@ -1,28 +1,54 @@
 path: artiklar/telefoner.html
 group: tema
 title: Från fingerskiva till smarta telefoner
-desc: Telefonkiosker, Fröken Ur, NMT, Nokia och MSN. Så har vi hållit kontakten med varandra genom tiderna.
+desc: Telefonen i hallen, Kobran och Diavox, telefonkiosker, Fröken Ur, NMT, Nokia 3310, sms och MSN. Så har vi hållit kontakten med varandra genom tiderna.
 h1: Från fingerskiva till smarta telefoner
-lead: I dag har nästan alla en telefon i fickan. Men för inte så länge sedan stod telefonen på ett bord i hallen, och man fick vänta på sin tur.
+lead: I dag har nästan alla en telefon i fickan. Men för inte så länge sedan stod telefonen på ett bord i hallen, och man fick vänta på sin tur, hålla samtalen korta och hoppas att ingen lyssnade.
 
 ## Telefonen i hallen
-Länge ägdes telefonerna av Televerket, och de flesta hem hade en enda telefon, ofta i hallen. Man ringde genom att vrida på fingerskivan, och den som hade många nior och nollor i numret fick vänta länge på att skivan skulle snurra tillbaka.
+Länge ägdes telefonerna av Televerket, och de flesta hem hade en enda telefon, ofta i hallen eller köket. Man hyrde apparaten och betalade för samtalen, och det var Televerket som kom och installerade den. Att få telefon kunde förr ta lång tid, och i många hem var det en stor händelse när den äntligen kom.
 
-Modeller som Kobran och senare Dialog och Diavox finns i många människors minnen. Telefonsamtal till andra orter kostade mycket, så man fattade sig kort.
+Man ringde genom att vrida på fingerskivan, och den som hade många nior och nollor i numret fick vänta länge på att skivan skulle snurra tillbaka. När knapptelefonerna kom kändes de som framtiden.
+
+Modeller som Kobran, Dialog och senare Diavox finns i många människors minnen. Kobran, med fingerskivan under luren, blev en designikon och finns i dag på museer. Telefonen satt fast i väggen med en sladd, och den som ville prata ostört fick dra sladden in i ett annat rum eller sitta på golvet i hallen.
+
+## Samtal som kostade
+Samtal till andra orter, rikssamtal, kostade mycket, och priset berodde på hur långt bort man ringde och vilken tid på dygnet det var. Därför ringde många på kvällar och helger, när det var billigare, och fattade sig kort. Att ringa utomlands var något man gjorde vid speciella tillfällen.
+
+I många familjer fanns regler om hur länge tonåringarna fick prata, och telefonräkningen kunde orsaka stora gräl.
 
 ## Telefonkatalogen och Fröken Ur
-Telefonkatalogen var en tjock bok med alla nummer i området, och gula sidorna listade företagen. Den som ville veta exakt vad klockan var ringde Fröken Ur på 90 510.
+Telefonkatalogen var en tjock bok med alla nummer i området, och gula sidorna listade företagen. Den delades ut gratis och låg i nästan varje hem. Om man inte hittade numret kunde man ringa nummerupplysningen och be om hjälp.
+
+Den som ville veta exakt vad klockan var ringde Fröken Ur på 90 510. Rösten som sa "klockan är ... och 20 sekunder" följt av ett pip var för många det säkraste sättet att ställa klockan.
 
 ## Telefonkiosken
-Utanför affärer och på torg stod telefonkiosker. Man stoppade i mynt, senare telefonkort, och ringde hem för att säga att man skulle bli sen. Många minns kön utanför kiosken på kvällarna.
+Utanför affärer, på stationer och på torg stod telefonkiosker. Man stoppade i mynt, senare telefonkort, och ringde hem för att säga att man skulle bli sen eller för att be om skjuts. Många minns kön utanför kiosken på kvällarna, särskilt i ungdomsår och på militärförläggningar.
+
+Telefonkort med olika motiv blev också samlarobjekt. Under 2000-talet försvann kioskerna nästan helt, när mobilerna tog över.
 
 ## De första mobilerna
-1981 startade NMT, ett av världens första mobilnät, i Norden. De första mobiltelefonerna var stora och dyra och användes mest av företag. Under 1990-talet kom GSM-nätet och telefoner från svenska Ericsson och finska Nokia blev allt vanligare.
+1981 startade NMT, ett av världens första mobilnät, i de nordiska länderna. De första mobiltelefonerna var stora, tunga och dyra. Många satt fast i bilen eller bars i en väska, och de användes mest av företag, hantverkare och åkare.
 
-Nokia 3310 kom år 2000 och blev känd för sitt batteri som räckte i flera dagar, sitt nästan okrossbara skal och spelet Snake.
+Under 1990-talet kom GSM-nätet, och telefoner från svenska Ericsson och finska Nokia blev allt vanligare. Mobilerna blev mindre, billigare och fick allt längre batteritid. Kontantkort gjorde att även tonåringar kunde ha en egen mobil.
+
+Nokia 3310 kom år 2000 och blev känd för sitt batteri som räckte i flera dagar, sitt nästan okrossbara skal och spelet Snake. Utbytbara skal och egna ringsignaler gjorde mobilen personlig, och att komponera en ringsignal med knapparna var en konst.
 
 ## Sms, MSN och Lunarstorm
-Sms blev ett nytt sätt att kommunicera, och man lärde sig skriva snabbt med sifferknapparna. På datorn chattade unga på MSN Messenger, och svenska Lunarstorm var en av de första stora sociala nätverken med gästböcker och "krypin".
+Sms blev ett nytt sätt att kommunicera, och man lärde sig skriva snabbt med sifferknapparna, ibland utan att titta. Varje meddelande kostade pengar och fick bara innehålla 160 tecken, så förkortningar som "ses", "mvh" och "puss" blev vanliga.
+
+På datorn chattade unga på MSN Messenger, där man kunde visa sitt humör med en statusrad och skicka "knuffar" till varandra. Svenska Lunarstorm var under början av 2000-talet Sveriges största sociala nätverk, med gästböcker, dagböcker och egna "krypin".
 
 ## Den smarta telefonen
-Iphonen lanserades 2007 och kom till Sverige året efter. Snart kunde man fota, navigera, betala och titta på film med samma lilla apparat. Telefonen i hallen blev ett minne, och i många hem finns i dag ingen fast telefon alls.
+Iphonen lanserades 2007 och kom till Sverige året efter. Snart kunde man fota, navigera, betala och titta på film med samma lilla apparat. Appar som Facebook, Instagram, Swish och Bank-id gjorde telefonen till nyckeln för nästan allt i vardagen.
+
+Telefonen i hallen blev ett minne, och i många hem finns i dag ingen fast telefon alls. Det fasta telefonnätet av koppar håller på att monteras ned i stora delar av landet.
+
+## Telefonminnen
+- Fingerskivan och nior som tog evigheter
+- Telefonsladden som drogs in i badrummet
+- Kön utanför telefonkiosken
+- Snake på Nokia 3310
+- Sms med 160 tecken och MSN efter skolan
+
+Vill du veta vad ett telefonsamtal kostade året du föddes? Skriv in ditt födelseår på startsidan och se priser och händelser från just det året.

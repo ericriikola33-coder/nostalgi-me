@@ -1,0 +1,62 @@
+path: artiklar/musiken-och-melodifestivalen.html
+group: tema
+title: Musiken och Melodifestivalen: svensk musik från stenkakor till Spotify
+desc: Svensk musikhistoria från 1950-talet till i dag: schlager och dansband, popband och progg, ABBA, Roxette och Max Martin, Melodifestivalen och alla svenska Eurovision-segrar.
+h1: Musiken och Melodifestivalen
+lead: Sverige är ett litet land med en enorm musikhistoria. Här är resan från stenkakor och folkparker till ABBA, Max Martin och Spotify, och från den första Melodifestivalen till Loreens två segrar.
+
+## Från stenkakor till kassettband
+På 1950-talet spelades musik på grammofonskivor av shellack, stenkakor, som snurrade i 78 varv och lätt gick sönder. Snart kom vinylskivorna, singeln på 45 varv och LP-skivan på 33 varv. Singeln blev ungdomens valuta, och skivaffären var en mötesplats där man kunde lyssna på nya skivor i en lur innan man köpte dem.
+
+Kassettbandet slog igenom på 1970-talet och gjorde det möjligt att spela in musik från radion och göra egna blandband. På 1980-talet kom cd-skivan, och på 2000-talet mp3-spelaren och sedan strömningen. Varje format har sina minnen, från knastret på en gammal vinyl till ljudet när ett kassettband trasslade sig i bandspelaren.
+
+## Schlager, visor och dansband
+Evert Taube hade redan före 1950-talet gjort visor om sjömän och sommar till en del av den svenska själen, och hans sånger sjöngs på fester och i skolor. Under 1950- och 60-talen var schlagern stor, med artister som Alice Babs, Lill-Babs, Siw Malmkvist och Anita Lindblom.
+
+Dansbanden blev ett eget svenskt fenomen. Sven-Ingvars, Thorleifs, Vikingarna, Sten & Stanley och Lasse Stefanz spelade på folkparker och dansbanor över hela landet, och Svensktoppen i radion, som startade 1962, blev deras stora lista. Dansbandsmusiken har levt vidare, och för många är den förknippad med sommar och kärlek.
+
+Visans tradition fortsatte med Cornelis Vreeswijk, Fred Åkerström och senare Lars Winnerbäck och Björn Afzelius, som sjöng om livet, samhället och kärleken på svenska.
+
+## Popbanden och proggen
+På 1960-talet startade hundratals popband efter förebilder som Beatles och Rolling Stones. Hep Stars, Tages och Ola & Janglers fick stora hits och turnerade i folkparkerna, och popband spelade på skoldanser och fritidsgårdar i varje stad.
+
+Under 1970-talet kom proggen, med band som Hoola Bandoola Band, Nationalteatern och Blå Tåget, som sjöng om politik och samhälle på svenska. Samtidigt blev Ted Gärdestad en tonårsidol och Magnus Uggla en provokativ popstjärna. Mot slutet av årtiondet kom punken med Ebba Grön och KSMB.
+
+## ABBA och den svenska popexporten
+Inget har betytt så mycket för svensk musik som ABBA. Efter segern i Eurovision 1974 blev gruppen världsstjärnor och visade att svensk pop kunde nå hela världen. Musikalen och filmerna Mamma Mia har i senare år gett låtarna nytt liv för nya generationer.
+
+Efter ABBA följde en lång rad framgångar. Europe och Roxette på 1980-talet, Ace of Base, The Cardigans och Dr. Alban på 1990-talet, och Robyn, The Hives, Swedish House Mafia och Avicii senare. Bakom kulisserna skrev svenska låtskrivare som Max Martin och Shellback hits åt världens största artister, från Backstreet Boys och Britney Spears till Taylor Swift och The Weeknd.
+
+## Svenska favoriter på hemmaplan
+Många svenska artister har varit enormt stora i Sverige utan att bli lika kända utomlands. Gyllene Tider, Ulf Lundell, Eva Dahlgren, Kent, Håkan Hellström, Veronica Maggio och Laleh är några av de artister som har satt ord på generationers känslor. Allsång på Skansen, som sänts i tv sedan 1979, samlar varje sommar både publik och tittare som sjunger med.
+
+## Melodifestivalen
+Den första svenska uttagningen till Eurovision hölls 1959, och sedan dess har Melodifestivalen blivit en av årets största tv-händelser. I början var tävlingen en enda kväll, med jury och orkester, och vinnaren var ofta en etablerad schlagersångare.
+
+2002 fick Melodifestivalen sitt moderna format, med deltävlingar i olika städer runt om i landet, andra chansen och en stor final i Stockholm. Lördagskvällarna under februari och mars blev en folkfest, och många låtar som inte ens vann blev stora hits.
+
+Melodifestivalen har också gett startskottet för många karriärer. Artister som Carola, Måns Zelmerlöw, Danny Saucedo, Molly Sandén och Benjamin Ingrosso har blivit kända genom tävlingen.
+
+## Sveriges segrar i Eurovision
+Sverige har vunnit Eurovision Song Contest sju gånger, lika många som Irland:
+- 1974: ABBA med Waterloo i Brighton
+- 1984: Herreys med Diggi-Loo Diggi-Ley i Luxemburg
+- 1991: Carola med Fångad av en stormvind i Rom
+- 1999: Charlotte Nilsson med Take Me to Your Heaven i Jerusalem
+- 2012: Loreen med Euphoria i Baku
+- 2015: Måns Zelmerlöw med Heroes i Wien
+- 2023: Loreen med Tattoo i Liverpool
+
+Loreen blev den första kvinnan och den andra artisten någonsin att vinna Eurovision två gånger. Sverige har arrangerat tävlingen flera gånger, bland annat i Göteborg 1985, Malmö 1992 och Stockholm 2016.
+
+## Musiken blir digital
+Med mp3-filer och fildelning förändrades musikbranschen i början av 2000-talet, och skivförsäljningen föll kraftigt. 2008 lanserades svenska Spotify, som gjorde det möjligt att lyssna på all världens musik direkt via nätet. I dag är strömning det vanligaste sättet att lyssna på musik, och vinylskivan har gjort comeback bland samlare och nostalgiker.
+
+## Musikminnen
+- Singlar på 45 varv och blandband på kassett
+- Svensktoppen och Tio i topp i radion
+- Dansbandskvällar i folkparken
+- Melodifestivalen på lördagskvällarna
+- Allsång på Skansen en sommarkväll
+
+Vill du veta vilka låtar som toppade listorna året du föddes? Skriv in ditt födelseår på startsidan och se musik och händelser från just det året.

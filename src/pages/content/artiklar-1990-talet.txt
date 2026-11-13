@@ -1,25 +1,51 @@
 path: artiklar/1990-talet.html
 title: 1990-talet: kris, EU och svensk pop i världen
-desc: Så var 1990-talet i Sverige: kronkrisen, EU-medlemskapet, Ace of Base och Max Martin, mobiltelefoner, internet och Tamagotchi.
+desc: Så var 1990-talet i Sverige: kronkrisen och 500 procents ränta, EU-medlemskapet, Ace of Base och Max Martin, Carola, mobiltelefoner, modem och Tamagotchi.
 h1: 1990-talet
 lead: Årtiondet började med en djup ekonomisk kris och slutade med en teknikboom. Däremellan blev svensk pop en världsexport och Sverige gick med i EU.
 
 ## Krisen
-I början av 1990-talet drabbades Sverige av en svår ekonomisk kris. Bostadspriser föll, banker fick räddas och arbetslösheten steg kraftigt. Hösten 1992 höjde Riksbanken styrräntan tillfälligt till 500 procent för att försvara kronan, en siffra som många fortfarande minns.
+I början av 1990-talet drabbades Sverige av den svåraste ekonomiska krisen sedan 1930-talet. Under slutet av 1980-talet hade bostadspriserna och lånen ökat snabbt, och när bubblan sprack föll priserna, flera banker fick räddas av staten och arbetslösheten steg kraftigt på bara ett par år.
+
+Hösten 1992 höjde Riksbanken styrräntan tillfälligt till 500 procent för att försvara kronan, en siffra som många fortfarande minns. Försöket misslyckades, och i november samma år fick kronan flyta fritt. För många familjer innebar krisen sparpaket, nedskärningar och oro för jobben, och den påverkade synen på ekonomi och statens budget i lång tid efteråt.
 
 ## Sverige går med i EU
-Efter en folkomröstning 1994 blev Sverige medlem i Europeiska unionen den 1 januari 1995. Samma höst, 1994, förliste färjan Estonia i Östersjön, en av de svåraste katastroferna i Sveriges moderna historia.
+Hösten 1994 röstade svenskarna i en folkomröstning om medlemskap i Europeiska unionen. Ja-sidan vann, och den 1 januari 1995 blev Sverige medlem i EU tillsammans med Finland och Österrike. Debatten hade varit intensiv, och frågan delade både familjer och partier.
+
+Samma höst, natten mot den 28 september 1994, förliste färjan Estonia i Östersjön på väg från Tallinn till Stockholm. Över 850 människor omkom, de flesta från Sverige, och katastrofen är en av de svåraste i Sveriges moderna historia.
 
 ## Svensk pop i hela världen
-Ace of Base sålde miljontals skivor med All That She Wants och The Sign. Roxette fortsatte sina framgångar, och The Cardigans fick en internationell hit med Lovefool. I studion Cheiron i Stockholm skrev Max Martin och hans kollegor hits åt Backstreet Boys och Britney Spears, och svenska låtskrivare blev eftertraktade över hela världen.
+Det var på 1990-talet som Sverige på allvar blev känt som ett popland. Ace of Base från Göteborg sålde miljontals skivor med All That She Wants och The Sign, och The Sign blev en av de mest spelade låtarna i USA 1994. Roxette fortsatte sina framgångar med låtar som Joyride och It Must Have Been Love, och The Cardigans fick en internationell hit med Lovefool.
+
+I studion Cheiron i Stockholm skrev Max Martin, Denniz Pop och deras kollegor hits åt Backstreet Boys, Britney Spears och NSYNC. När Britney Spears slog igenom med ...Baby One More Time 1998 var det en svensk låtskrivare bakom, och svenska låtskrivare blev eftertraktade över hela världen.
+
+På hemmaplan vann Carola Eurovision 1991 med Fångad av en stormvind, och Charlotte Nilsson vann 1999 med Take Me to Your Heaven. Eurodisco, Dr. Alban, E-Type och Army of Lovers fyllde dansgolven, medan Kent, Bo Kaspers Orkester och Lisa Nilsson sjöng på svenska.
 
 ## Mobiler, internet och spel
-Mobiltelefonen gick från att vara en tung pryl för affärsfolk till något många hade i fickan, och svenska Ericsson var ett av de ledande företagen. Mot slutet av årtiondet kopplade allt fler upp sig mot internet via ett pipande modem.
+Mobiltelefonen gick från att vara en tung pryl för affärsfolk till något många hade i fickan. Svenska Ericsson var ett av världens ledande företag inom mobiltelefoni, och GSM-nätet gjorde det möjligt att skicka sms. Mot slutet av årtiondet hade en stor del av svenskarna en mobil.
 
-Playstation tog tv-spelen till en ny nivå, och Tamagotchi, ett litet digitalt husdjur som behövde mat och omsorg, blev en världsdille på skolgårdarna.
+Allt fler kopplade upp sig mot internet via ett pipande modem, och den som ville surfa fick se till att ingen behövde ringa samtidigt, eftersom telefonlinjen var upptagen. Hem-pc-reformen 1998, där många kunde köpa en dator förmånligt via arbetsgivaren, gjorde att datorn flyttade in i många hem i slutet av årtiondet.
 
-## Tv och idrott
-TV4 började sända i marknätet och Expedition Robinson blev ett av de första stora dokusåpaprogrammen. Inom idrotten var 1994 ett minnesvärt år: Tre Kronor vann OS-guld i Lillehammer efter Peter Forsbergs straff, och fotbollslandslaget tog brons i VM i USA.
+Playstation tog tv-spelen till en ny nivå med tredimensionella världar, och Game Boy följde med på bilresor och sovsalar. Tamagotchi, ett litet digitalt husdjur som behövde mat och omsorg, blev 1997 en världsdille på skolgårdarna, och många lärare fick samla in dem under lektionerna.
+
+## Tv och underhållning
+TV4 började sända i marknätet 1992, och tv-utbudet växte snabbt med fler kanaler och fler program. Bingolotto samlade miljontals tittare på lördagskvällarna, och 1997 kom Expedition Robinson, ett av de första stora dokusåpaprogrammen. Snart pratade alla om vem som röstats ut från ön.
+
+För barnen var Bolibompa, Björnes magasin och tv-serien om Bert stora favoriter. Julkalendrar som Sunes jul och Tomtemaskinen samlade familjer framför tv:n i december, och Kalle Anka klockan 15 på julafton var lika självklar som alltid.
+
+## Idrott
+Inom idrotten var 1994 ett minnesvärt år. I februari vann Tre Kronor OS-guld i Lillehammer efter Peter Forsbergs berömda straff mot Kanada, en bild som senare hamnade på ett frimärke. På sommaren tog fotbollslandslaget brons i VM i USA, med spelare som Tomas Brolin, Martin Dahlin och Kennet Andersson, och hela landet firade.
+
+Pernilla Wiberg vann OS-guld i alpint, och Annika Sörenstam började sin karriär som en av världens bästa golfspelare. Ludmila Engquist tog OS-guld på häck i Atlanta 1996.
 
 ## Mode och stil
-Grungestilen kom med flanellskjortor och slitna jeans. Senare under årtiondet var baggy byxor, buffaloskor, kläder i fleece och små ryggsäckar populära.
+Grungestilen kom med flanellskjortor, slitna jeans och kängor. Senare under årtiondet var baggy byxor, buffaloskor, kläder i fleece, Kappa-overaller och små ryggsäckar populära. Många hade håret i mittbena, gärna med en frisyr som delade håret i två gardiner. Det var också årtiondet då Fjällrävens Kånken och Champion-tröjor syntes i varje skolkorridor.
+
+## Vad var vanligt på 1990-talet?
+- Modemljudet när man kopplade upp sig mot internet
+- Nokia- och Ericsson-mobiler med antenn
+- Tamagotchi, Pogs och Game Boy
+- Buffaloskor, fleecetröjor och baggy byxor
+- Ace of Base och Dr. Alban på skoldiscot
+
+Vill du veta mer om ett särskilt år? Skriv in ett årtal i sökrutan på startsidan och se musik, händelser och priser från just det året.

@@ -83,7 +83,8 @@ articles = []
 for f in sorted((PAGES / "content").glob("*.txt")):
     m, body = parse(f)
     here = m["path"]
-    main = f'<h1>{inline(m["h1"])}</h1>\n<p class="lead">{inline(m["lead"])}</p>\n{body_html(body)}'
+    byline = '<p class="byline">Text: Eric Riikola · Uppdaterad november 2026</p>\n' if here.startswith("artiklar/") else ""
+    main = f'<h1>{inline(m["h1"])}</h1>\n{byline}<p class="lead">{inline(m["lead"])}</p>\n{body_html(body)}'
     if here.startswith("artiklar/"):
         articles.append(m)
         main += (f'\n<div class="box"><strong>Sök ditt år</strong><p style="margin:6px 0 12px">Vill du veta mer om ett särskilt år? Skriv in det och se musik, händelser, priser och quiz.</p>'
@@ -93,7 +94,7 @@ for f in sorted((PAGES / "content").glob("*.txt")):
     out = SITE / here; out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page(here, m["title"], m["desc"], main), encoding="utf-8"); written.append(here)
 
-ORDER = ["barnprogram", "bilar-och-mopeder", "leksaker", "godis-och-mat", "tv-och-radio", "telefoner", "semester-och-noje", "hemmet", "visste-du-att"]
+ORDER = ["julen-forr", "barnprogram", "leksaker", "godis-och-mat", "musiken-och-melodifestivalen", "tv-och-radio", "skolan-forr", "mode-och-frisyrer", "bilar-och-mopeder", "idrottsminnen", "telefoner", "semester-och-noje", "hemmet", "visste-du-att"]
 decades = [m for m in articles if m.get("group", "decade") == "decade"]
 themes = sorted([m for m in articles if m.get("group") == "tema"], key=lambda m: ORDER.index(m["path"][9:-5]) if m["path"][9:-5] in ORDER else 99)
 
@@ -135,7 +136,16 @@ if "site-nav" not in t:
     t = t.replace('<body>\n<div class="band">', '<body>\n' + nav("index.html") + '\n<div class="band">', 1)
     t = t.replace('\n<script>', '\n' + foot("index.html") + '\n<script>', 1)
     home_cards = '<div class="cards">' + "".join(f'<a href="artiklar/{m["path"].split("/")[1]}"><strong style="font-size:1.15rem">{m["h1"]}</strong><span>{html.escape(card_text(m))}</span></a>' for m in themes[:6]) + "</div>"
-    t = t.replace('<div id="etsyfoot"></div>', '<section style="margin-top:40px"><p class="qtitle">Minnen och kuriosa</p><p class="sub" style="margin:6px 0 0">Barnprogram, bilar, leksaker och godis från förr. <a href="artiklar/index.html">Alla artiklar</a></p>' + home_cards + '</section>\n<div id="etsyfoot"></div>', 1)
+    decade_links = ", ".join(f'<a href="artiklar/{m["path"].split("/")[1]}">{m["h1"]}</a>' for m in decades)
+    about = ('<section class="home-about" style="margin-top:40px"><p class="qtitle">Välkommen till nostalgi.me</p>'
+      '<p>nostalgi.me är ett retrohörn på nätet för alla som gillar att minnas och jämföra. Skriv in ett årtal mellan 1950 och 2025 så får du se vilken musik som spelades, vilka idrottsögonblick som samlade landet, vad som hände i Sverige och i världen och rolig kuriosa från just det året. '
+      'Du ser också ungefär vad 100 kronor var värda då jämfört med i dag och hur villapriserna har förändrats, räknat fram från statistik från SCB.</p>'
+      '<p>Sajten passar perfekt inför en födelsedag eller ett kalas. Med quizet Gissa året tävlar sällskapet om vem som kommer närmast rätt årtal, och födelsedagsquizet sätter födelsedagsbarnet i centrum med frågor från födelseåret och andra viktiga år i livet. Du kan också skapa en egen retroposter för ett födelseår att skriva ut eller ge bort.</p>'
+      '<p class="qtitle" style="margin-top:26px;font-size:1.3rem">Så var livet förr, årtionde för årtionde</p>'
+      '<p>Vill du läsa mer? I våra längre artiklar berättar vi om hur det var att leva i Sverige under varje årtionde, från folkhemmets 1950-tal till pandemins och Natos 2020-tal: ' + decade_links + '.</p>'
+      '<p>Under <a href="artiklar/index.html">Artiklar</a> hittar du också texter om julen förr, skolan förr, mode och frisyrer, barnprogram, leksaker, godis och mat, musiken och Melodifestivalen, idrottsminnen, telefoner, bilar och mopeder, semester och hemmet förr. '
+      'Allt är skrivet för att väcka minnen och ge något roligt att prata om med familj och vänner.</p></section>')
+    t = t.replace('<div id="etsyfoot"></div>', about + '<section style="margin-top:40px"><p class="qtitle">Minnen och kuriosa</p><p class="sub" style="margin:6px 0 0">Barnprogram, bilar, leksaker och godis från förr. <a href="artiklar/index.html">Alla artiklar</a></p>' + home_cards + '</section>\n<div id="etsyfoot"></div>', 1)
     assert t.count("site-nav") >= 1 and t.count("site-foot") >= 1
 idx.write_text(t, encoding="utf-8")
 

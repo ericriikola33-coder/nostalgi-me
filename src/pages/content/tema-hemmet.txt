@@ -1,26 +1,55 @@
 path: artiklar/hemmet.html
 group: tema
 title: Hemmet förr: finrummet, teakmöbler och Billy
-desc: Från finrum och kakelugn till teak, orange 70-talskök och Ikeas Billy. Så har svenska hem förändrats genom tiderna.
+desc: Från finrum och kakelugn till teak, orange 70-talskök, tvättstugans bokningstavla och Ikeas Billy. Så har svenska hem förändrats genom tiderna.
 h1: Hemmet förr
-lead: Hur såg det ut hemma hos mormor och morfar? Här är minnen från svenska hem genom tiderna, från finrummet till den platta kartongen från Ikea.
+lead: Hur såg det ut hemma hos mormor och morfar? Här är minnen från svenska hem genom tiderna, från finrummet och vedspisen till den platta kartongen från Ikea.
+
+## Trångt och kallt
+I början av 1900-talets andra hälft bodde många svenskar fortfarande trångt. Ett rum och kök för en hel familj var inte ovanligt, och i många äldre hus fanns varken badrum eller varmvatten. Man badade i en balja i köket på lördagen, och toaletten kunde finnas på gården. Värmen kom från kakelugnar och vedspisar som skulle eldas varje morgon.
+
+Det är därför de nya lägenheterna på 1950- och 60-talen kändes så revolutionerande. Centralvärme, eget badrum och kylskåp gjorde livet både enklare och bekvämare.
 
 ## Finrummet
-I många hem fanns ett finrum som bara användes när det kom gäster. Där stod de finaste möblerna, kristallen i vitrinskåpet och kanske en kakelugn. Barnen fick sällan leka där.
+I många hem fanns ett finrum som bara användes när det kom gäster. Där stod de finaste möblerna, kristallen i vitrinskåpet, porslinshundar på hyllan och kanske en kakelugn eller ett piano. Soffan kunde vara klädd i plast för att skydda tyget. Barnen fick sällan leka där, och rummet kändes nästan som ett museum.
+
+Till jul, födelsedagar och begravningar öppnades finrummet, och då plockades också finporslinet fram.
 
 ## Moderna kök och nya maskiner
-Under 1950- och 60-talen blev kylskåp, elspis och tvättmaskin vanliga i svenska hem, och hushållsarbetet förändrades i grunden. I hyreshusen delade man tvättstuga, och bokningstavlan med namnlappar och lås var en källa till både ordning och konflikter.
+Under 1950- och 60-talen blev kylskåp, elspis och tvättmaskin vanliga i svenska hem, och hushållsarbetet förändrades i grunden. Den svenska köksstandarden, med bestämda mått på bänkar och skåp, gjorde köken praktiska och lika över hela landet.
 
-På 1980-talet kom mikrovågsugnen, och plötsligt kunde man värma maten på några minuter.
+I hyreshusen delade man tvättstuga, och bokningstavlan med namnlappar och lås var en källa till både ordning och konflikter. Lappar om att någon glömt sin tvätt i torkskåpet eller inte städat efter sig har blivit en egen svensk genre.
+
+På 1980-talet kom mikrovågsugnen, och plötsligt kunde man värma maten på några minuter. Diskmaskinen blev vanlig ungefär samtidigt, och den gamla diskborsten och diskbaljan fick allt mindre att göra.
 
 ## Teak, orange och brunt
-1960-talet präglades av teakmöbler i skandinavisk stil med raka linjer. Under 1970-talet var köken ofta orange, bruna eller gröna, med mönstrade tapeter och plastmattor på golvet. Mycket av det som en gång ansågs gammalmodigt är i dag eftertraktat på loppis.
+1950- och 60-talen präglades av teakmöbler i skandinavisk stil med raka linjer och smala ben. Skandinavisk design blev känd i hela världen, och möbler, glas och textilier från den här tiden är i dag eftertraktade samlarobjekt.
+
+Under 1970-talet var köken ofta orange, bruna eller gröna, med mönstrade tapeter och plastmattor på golvet. Furumöbler, flätade korgstolar, sittsäckar och makramé i fönstren var vanligt, och i vardagsrummet stod ofta en stor stereo i en hylla av mörkt trä.
+
+Mycket av det som en gång ansågs gammalmodigt är i dag eftertraktat på loppis, och 70-talsmönster har gjort comeback på tapeter och kuddar.
 
 ## Ikea och den platta kartongen
-Ikeas första varuhus öppnade i Älmhult 1958. Idén med platta paket som kunderna monterade själva gjorde möbler billigare och lättare att ta med hem. Bokhyllan Billy kom 1979 och finns i miljontals hem i hela världen. Ikea-katalogen var länge en av de mest lästa böckerna i Sverige.
+Ikeas första varuhus öppnade i Älmhult 1958. Idén med platta paket som kunderna monterade själva gjorde möbler billigare och lättare att ta med hem. Bokhyllan Billy kom 1979 och finns i miljontals hem i hela världen, och namn som Klippan, Poäng och Lack är kända långt utanför Sverige.
+
+Ikea-katalogen var länge en av de mest lästa böckerna i Sverige, och många minns hur de bläddrade i den och drömde om ett nytt rum. Att åka till Ikea en lördag, äta köttbullar och komma hem med fler saker än man tänkt sig blev en svensk vardagsritual.
 
 ## Tupperware och kalasen
-Tupperwareparty, där en värdinna bjöd hem vänner för att visa plastburkar, var populärt under flera decennier. Till kalasen dukades med finporslinet, och sju sorters kakor var ett mått på en ordentlig fika.
+Tupperwareparty, där en värdinna bjöd hem vänner för att visa plastburkar, var populärt under flera decennier. Till kalasen dukades med finporslinet, och sju sorters kakor var ett mått på en ordentlig fika. Spetsdukar, kandelabrar och kaffekoppar med guldkant hörde till.
 
 ## Ljud och prylar
-Radiogrammofonen i vardagsrummet, ett dragspelssnöre för att tända lampan i taket, stereon med kassettdäck och senare videon under tv:n. Varje årtionde hade sina prylar som stolt visades upp för gästerna.
+Radiogrammofonen i vardagsrummet, ett dragspelssnöre för att tända lampan i taket, stereon med kassettdäck och senare videon under tv:n. Varje årtionde hade sina prylar som stolt visades upp för gästerna. Telefonen stod ofta på ett eget bord i hallen, med telefonkatalogen under.
+
+I barnrummen fanns kassettbandspelare, sagoskivor och senare tv-spel och datorer. I dag har många av de prylarna ersatts av en enda telefon.
+
+## Sommarstugan
+För många familjer var sommarstugan ett andra hem. Där fanns ofta gamla möbler från stadslägenheten, utedass, pump på gården och en vedspis som påminde om hur det var förr. Sommarstugan blev en plats där tiden stod lite still, och för många barn är den förknippad med de bästa minnena.
+
+## Saker som fanns i nästan varje hem
+- Telefonen på ett bord i hallen
+- Spetsgardiner och krukväxter i fönstret
+- Porslinshundar eller dalahästar på hyllan
+- Ryamatta, plastmatta eller trasmatta
+- Bokningstavlan i tvättstugan
+
+Vill du veta vad en villa kostade året du föddes? Skriv in ditt födelseår på startsidan och se priser och händelser från just det året.

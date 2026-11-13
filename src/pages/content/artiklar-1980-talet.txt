@@ -1,27 +1,52 @@
 path: artiklar/1980-talet.html
 title: 1980-talet: synth, Walkman och hemdatorer
-desc: Så var 1980-talet i Sverige: Europe och Roxette, Walkman och VHS, hemdatorer, nya tv-kanaler och mordet på Olof Palme.
+desc: Så var 1980-talet i Sverige: Gyllene Tider, Europe och Roxette, Walkman och VHS, Commodore 64, TV3, mordet på Olof Palme och Tjernobyl.
 h1: 1980-talet
 lead: Ett årtionde av neonfärger, synthar och nya prylar. Samtidigt rymde 1980-talet några av de händelser som skakade Sverige allra mest.
 
 ## Musik som erövrade världen
-Svensk musik nådde nya höjder. Europe fick en världshit med The Final Countdown, och Roxette började sin internationella karriär mot slutet av årtiondet. Herreys vann Eurovision 1984 med Diggi-Loo Diggi-Ley, i guldskor.
+Svensk musik nådde nya höjder under 1980-talet. I början av årtiondet var Gyllene Tider från Halmstad landets största band, och låtar som När vi två blir en och Sommartider blev soundtracket till många somrar. Herreys vann Eurovision 1984 med Diggi-Loo Diggi-Ley, i sina berömda guldskor.
 
-Synthesizern förändrade popmusiken, och MTV gjorde musikvideon lika viktig som själva låten.
+Europe fick en världshit med The Final Countdown 1986, och synthintrot är fortfarande ett av de mest kända i musikhistorien. Mot slutet av årtiondet började Roxette, med Per Gessle och Marie Fredriksson, sin internationella karriär, och 1989 toppade The Look listan i USA.
+
+Synthesizern förändrade popmusiken, och MTV gjorde musikvideon lika viktig som själva låten. I Sverige var Ulf Lundell, Eva Dahlgren, Imperiet och Thomas Di Leva stora namn, och dansbanden fyllde fortfarande folkparkerna.
 
 ## Prylarna som förändrade vardagen
-Med en Walkman kunde man ha musiken med sig överallt. Videobandspelaren gjorde det möjligt att hyra film och spela in tv-program, och videobutiken blev ett nytt fredagsnöje.
+Med en Walkman kunde man ha musiken med sig överallt, och blandbandet var den tidens spellista. Man spelade in låtar från radion, skrev låtlistan för hand och gav banden till kompisar, pojkvänner och flickvänner.
 
-Hemdatorerna kom in i barnens rum. Många skrev sina första program eller spelade sina första spel på en Commodore 64, och tv-spel som Pac-Man, Tetris och Super Mario blev en del av barndomen.
+Videobandspelaren gjorde det möjligt att hyra film och spela in tv-program, och videobutiken blev ett nytt fredagsnöje. Att gå mellan hyllorna och välja film, och att komma ihåg att spola tillbaka bandet innan man lämnade tillbaka det, är minnen som många delar.
+
+Hemdatorerna kom in i barnens rum. Många skrev sina första program eller spelade sina första spel på en Commodore 64, en ABC 80 eller en Spectrum. Tv-spel som Pac-Man, Tetris och Super Mario blev en del av barndomen, och Nintendos tv-spel blev en av årtiondets mest önskade julklappar.
 
 ## Fler tv-kanaler
-Länge fanns bara statens två tv-kanaler. I slutet av årtiondet började TV3 sända via satellit, och därmed fick svenska tittare reklam-tv för första gången. Det var början på en helt ny tv-värld.
+Länge fanns bara statens två tv-kanaler, TV1 och TV2. Kabel-tv började byggas ut i flerfamiljshusen, och nyårsafton 1987 började TV3 sända via satellit från London. Därmed fick svenska tittare reklam-tv för första gången, och det var början på en helt ny tv-värld.
+
+De som växte upp under 1980-talet minns också Trazan och Banarne, Björnes magasin, som startade i slutet av årtiondet, och lördagsmorgnarnas tecknade filmer. På spåret, där lag reser med tåg och gissar resmålet, började sändas 1987 och blev snabbt en fredagsklassiker.
 
 ## Händelser som skakade Sverige
-Den 28 februari 1986 mördades statsminister Olof Palme på Sveavägen i Stockholm. Mordet chockade hela landet och var olöst i flera decennier. Bara två månader senare inträffade kärnkraftsolyckan i Tjernobyl, och radioaktivt nedfall nådde delar av Sverige.
+1980 röstade svenskarna i en folkomröstning om kärnkraften, och samma år präglades av en stor konflikt på arbetsmarknaden med strejker och lockouter. Hösten 1981 gick den sovjetiska ubåten U 137 på grund i den svenska skärgården utanför Karlskrona, och händelsen fick stor uppmärksamhet över hela världen.
+
+Den 28 februari 1986 mördades statsminister Olof Palme på Sveavägen i Stockholm när han var på väg hem från bion. Mordet chockade hela landet och var olöst i flera decennier. Bara två månader senare inträffade kärnkraftsolyckan i Tjernobyl i dåvarande Sovjetunionen, och radioaktivt nedfall nådde delar av Sverige. Många minns råd om att inte plocka svamp eller bär och att vara försiktig med vissa livsmedel.
 
 ## Svenska idrottsframgångar
-IFK Göteborg vann UEFA-cupen två gånger, och svenska tennisspelare som Mats Wilander och Stefan Edberg tog flera Grand Slam-titlar. Tre Kronor vann VM-guld i Wien 1987.
+IFK Göteborg vann UEFA-cupen 1982 och 1987, något som inget annat svenskt klubblag har klarat. Svenska tennisspelare som Mats Wilander och Stefan Edberg tog flera Grand Slam-titlar, och Sverige vann Davis Cup flera gånger. Tre Kronor vann VM-guld i Wien 1987, och Ingemar Stenmark fortsatte vinna i slalombackarna.
+
+## Film och böcker
+Ingmar Bergmans Fanny och Alexander kom 1982 och belönades med flera Oscar. 1984 kom filmen om Ronja Rövardotter, och Mitt liv som hund blev en internationell framgång. Många barn läste Bamse, Kalle Anka och böckerna om Pelle Svanslös, medan tonåringarna läste Starlet och Okej för att hålla koll på sina idoler.
+
+## Ett annorlunda vardagsliv
+Mobiltelefonen fanns, men bara för ett fåtal. NMT-nätet startade 1981, och de första mobiltelefonerna var stora, tunga och dyra. De flesta ringde fortfarande från telefonen i hallen eller från en telefonkiosk.
+
+Aerobics blev en folkrörelse, och träningspass med pigg musik och färgglada kläder lockade tusentals. Jogging och motionslopp blev populära, liksom solarier och permanent.
 
 ## Mode och stil
-Axelvaddar, permanentat hår, neonfärger, benvärmare och träningsoveraller syntes överallt. Aerobics blev en folkrörelse, och den som ville vara modern bar gärna kläder i glansiga material.
+Axelvaddar, permanentat hår, neonfärger, benvärmare och träningsoveraller syntes överallt. Jeansen var stentvättade och ofta högmidjade. Unga män och kvinnor bar gärna stora tröjor, pastellfärgade kavajer med uppkavlade ärmar och mycket hårspray. Den som ville vara modern bar gärna kläder i glansiga material.
+
+## Vad var vanligt på 1980-talet?
+- Walkman och blandband
+- Videobutiken på fredagskvällen
+- Commodore 64 och de första tv-spelen
+- Neonfärger, axelvaddar och permanent
+- Gyllene Tider och Europe på radion
+
+Vill du veta mer om ett särskilt år? Skriv in ett årtal i sökrutan på startsidan och se musik, händelser och priser från just det året.
